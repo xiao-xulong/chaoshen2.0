@@ -68,9 +68,12 @@ export default {
 <style lang="less">
 :root {
   --sidebarW: 100%;
+  --sidebarH: 40px;
 }
 
-
+.van-notice-bar {
+height: var(--sidebarH) !important;
+}
 .van-sidebar {
   width: var(--sidebarW) !important;
   background-color: #EDEDED;
@@ -90,7 +93,7 @@ export default {
     font-size: 28px !important;
     margin-bottom: 20px;
     height: 80px;
-    line-height: 40px;
+    line-height: 10px;
     background-color: #EDEDED;
   }
 
@@ -101,6 +104,7 @@ export default {
 }
 </style>
 <style  scoped lang="less">
+
 :deep(.van-notice-bar__content) {
   font-size: 24px;
 }
