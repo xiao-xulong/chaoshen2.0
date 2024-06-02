@@ -204,11 +204,11 @@ svg {
 }
 
 :deep(.van-field__label) {
-  line-height: 58px;
+  line-height: 40px;
 }
 
 :deep(.van-field__value) {
-  line-height: 58px;
+  line-height: 42px;
 }
 
 :deep(.van-button) {
