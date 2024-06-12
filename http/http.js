@@ -336,6 +336,8 @@ const examplePics = [
 const allPics = [
 
   // {url:'',name:''},2323舞照降临日海报
+  { url: require('../img/mainIng/AI琪琳(65).jpg'), name: 'AI琪琳(65)' },
+  { url: require('../img/mainIng/AI琪琳(66).jpg'), name: 'AI琪琳(66)' },
   { url: require('../img/mainIng/AI蔷薇(19).jpg'), name: 'AI蔷薇(19)' },
   { url: require('../img/mainIng/2024凉冰降临日海报.jpg'), name: '2024凉冰降临日海报' },
   { url: require('../img/mainIng/AI彦(374).jpg'), name: 'AI彦(374)' },
@@ -366,7 +368,7 @@ const allPics = [
   { url: require('../img/mainIng/AI蔷薇(16).jpg'), name: 'AI蔷薇(16)' },
   { url: require('../img/mainIng/AI蔷薇(17).jpg'), name: 'AI蔷薇(17)' },
   { url: require('../img/mainIng/AI蔷薇(18).jpg'), name: 'AI蔷薇(18)' },
-  
+
   { url: require('../img/mainIng/AI凯莎(69).jpg'), name: 'AI凯莎(69)' },
   { url: require('../img/mainIng/AI凯莎(70).jpg'), name: 'AI凯莎(70)' },
   { url: require('../img/mainIng/AI凯莎(71).jpg'), name: 'AI凯莎(71)' },
