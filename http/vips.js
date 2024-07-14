@@ -124,6 +124,7 @@ const vips = [
   { qq: "2416413809", name: "折纸丨给妳乀", money: "10" },
   { qq: "2416413809", name: "温柔是治愈的良药", money: "10" },
   { qq: "1224151285", name: "兰临沧海", money: "10" },
+  { qq: "1804388184", name: "池鱼思故渊", money: "10" },
   { qq: "241483228", name: "chi白", money: "8" },
   { qq: "3027222579", name: "清风", money: "8" },
   { qq: "2578516756", name: "Faye Valentine", money: "7" },
