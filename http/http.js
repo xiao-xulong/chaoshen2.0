@@ -336,6 +336,31 @@ const examplePics = [
 const allPics = [
 
   // {url:'',name:''},2323舞照降临日海报
+  { url: require('../img/mainIng/AI彦(398).jpg'), name: 'AI彦(398)' },
+  { url: require('../img/mainIng/AI彦(399).jpg'), name: 'AI彦(399)' },
+  { url: require('../img/mainIng/AI彦(400).jpg'), name: 'AI彦(400)' },
+  { url: require('../img/mainIng/AI彦(401).jpg'), name: 'AI彦(401)' },
+  { url: require('../img/mainIng/AI彦(402).jpg'), name: 'AI彦(402)' },
+  { url: require('../img/mainIng/AI彦(403).jpg'), name: 'AI彦(403)' },
+  { url: require('../img/mainIng/AI彦(404).jpg'), name: 'AI彦(404)' },
+  { url: require('../img/mainIng/AI彦(405).jpg'), name: 'AI彦(405)' },
+  { url: require('../img/mainIng/AI彦(406).jpg'), name: 'AI彦(406)' },
+  { url: require('../img/mainIng/AI鹤熙(169).jpg'), name: 'AI鹤熙(169)' },
+  { url: require('../img/mainIng/AI鹤熙(170).jpg'), name: 'AI鹤熙(170)' },
+  { url: require('../img/mainIng/AI鹤熙(171).jpg'), name: 'AI鹤熙(171)' },
+  { url: require('../img/mainIng/AI鹤熙(172).jpg'), name: 'AI鹤熙(172)' },
+  { url: require('../img/mainIng/AI鹤熙(173).jpg'), name: 'AI鹤熙(173)' },
+  { url: require('../img/mainIng/AI鹤熙(174).jpg'), name: 'AI鹤熙(174)' },
+  { url: require('../img/mainIng/AI琪琳(78).jpg'), name: 'AI琪琳(78)' },
+  { url: require('../img/mainIng/AI凉冰(56).jpg'), name: 'AI凉冰(56)' },
+  { url: require('../img/mainIng/AI凉冰(57).jpg'), name: 'AI凉冰(57)' },
+  { url: require('../img/mainIng/AI凉冰(58).jpg'), name: 'AI凉冰(58)' },
+  { url: require('../img/mainIng/AI凉冰(59).jpg'), name: 'AI凉冰(59)' },
+  { url: require('../img/mainIng/AI凉冰(60).jpg'), name: 'AI凉冰(60)' },
+  { url: require('../img/mainIng/AI阿狸.jpg'), name: 'AI阿狸' },
+
+
+
   { url: require('../img/mainIng/AI彦(392).jpg'), name: 'AI彦(392)' },
   { url: require('../img/mainIng/AI彦(393).jpg'), name: 'AI彦(393)' },
   { url: require('../img/mainIng/AI彦(394).jpg'), name: 'AI彦(394)' },
@@ -361,6 +386,8 @@ const allPics = [
   { url: require('../img/mainIng/AI彦(385).jpg'), name: 'AI彦(385)' },
   { url: require('../img/mainIng/AI彦(386).jpg'), name: 'AI彦(386)' },
   { url: require('../img/mainIng/AI彦(387).jpg'), name: 'AI彦(387)' },
+
+
 
   { url: require('../img/mainIng/AI鹤熙(168).jpg'), name: 'AI鹤熙(168)' },
   { url: require('../img/mainIng/AI琪琳(76).jpg'), name: 'AI琪琳(76)' },
