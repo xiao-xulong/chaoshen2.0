@@ -336,6 +336,26 @@ const examplePics = [
 const allPics = [
 
   // {url:'',name:''},2323舞照降临日海报
+
+
+  { url: require('../img/mainIng/AI琪琳(79).jpg'), name: 'AI琪琳(79)' },
+  { url: require('../img/mainIng/AI琪琳(80).jpg'), name: 'AI琪琳(80)' },
+  { url: require('../img/mainIng/AI琪琳(81).jpg'), name: 'AI琪琳(81)' },
+  { url: require('../img/mainIng/AI琪琳(82).jpg'), name: 'AI琪琳(82)' },
+  { url: require('../img/mainIng/AI琪琳(83).jpg'), name: 'AI琪琳(83)' },
+  { url: require('../img/mainIng/AI琪琳(84).jpg'), name: 'AI琪琳(84)' },
+  { url: require('../img/mainIng/AI琪琳(85).jpg'), name: 'AI琪琳(85)' },
+  { url: require('../img/mainIng/AI琪琳(86).jpg'), name: 'AI琪琳(86)' },
+  { url: require('../img/mainIng/AI琪琳(87).jpg'), name: 'AI琪琳(87)' },
+  { url: require('../img/mainIng/AI琪琳(88).jpg'), name: 'AI琪琳(88)' },
+  { url: require('../img/mainIng/AI凯莎(76).jpg'), name: 'AI凯莎(76)' },
+  { url: require('../img/mainIng/AI凯莎(77).jpg'), name: 'AI凯莎(77)' },
+  { url: require('../img/mainIng/AI凯莎(78).jpg'), name: 'AI凯莎(78)' },
+  { url: require('../img/mainIng/AI凯莎(79).jpg'), name: 'AI凯莎(79)' },
+  { url: require('../img/mainIng/AI凯莎(80).jpg'), name: 'AI凯莎(80)' },
+  { url: require('../img/mainIng/AI凯莎(81).jpg'), name: 'AI凯莎(81)' },
+  { url: require('../img/mainIng/AI凯莎,鹤熙.jpg'), name: 'AI凯莎,鹤熙' },
+
   { url: require('../img/mainIng/AI鹤熙(175).jpg'), name: 'AI鹤熙(175)' },
   { url: require('../img/mainIng/AI凉冰(61).jpg'), name: 'AI凉冰(61)' },
   { url: require('../img/mainIng/AI凯莎(75).jpg'), name: 'AI凯莎(75)' },
