@@ -342,7 +342,7 @@ const allPics = [
   { url: require('../img/mainIng/AI琪琳(89).jpg'), name: 'AI琪琳(89)' },
   { url: require('../img/mainIng/AI琪琳(90).jpg'), name: 'AI琪琳(90)' },
   { url: require('../img/mainIng/AI琪琳(91).jpg'), name: 'AI琪琳(91)' },
-  { url: require('../img/mainIng/AI彦(406).jpg'), name: 'AI彦(406)' },
+  { url: require('../img/mainIng/AI彦(407).jpg'), name: 'AI彦(407)' },
   { url: require('../img/mainIng/AI凯莎(82).jpg'), name: 'AI凯莎(82)' },
   { url: require('../img/mainIng/AI琪琳(79).jpg'), name: 'AI琪琳(79)' },
   { url: require('../img/mainIng/AI琪琳(80).jpg'), name: 'AI琪琳(80)' },
