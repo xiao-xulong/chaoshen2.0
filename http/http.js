@@ -391,10 +391,6 @@ const allPics = [
   { url: require('../img/mainIng/AI蔷薇(70).jpg'), name: 'AI蔷薇(70)' },
   { url: require('../img/mainIng/AI蔷薇(71).jpg'), name: 'AI蔷薇(71)' },
   { url: require('../img/mainIng/AI蔷薇(72).jpg'), name: 'AI蔷薇(72)' },
-  { url: require('../img/mainIng/AI蔷薇(73).jpg'), name: 'AI蔷薇(73)' },
-
-
-
 
   { url: require('../img/mainIng/AI彦(414).jpg'), name: 'AI彦(414)' },
   { url: require('../img/mainIng/AI彦(415).jpg'), name: 'AI彦(415)' },
