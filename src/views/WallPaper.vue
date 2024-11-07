@@ -39,6 +39,7 @@ export default {
       { text: '默认排序', value: '默认排序' },
       { text: '彦', value: '彦' },
       { text: '阿追', value: '阿追' },
+      { text: '蔷薇', value: '蔷薇' },
       { text: '鹤熙', value: '鹤熙' },
       { text: '凯莎', value: '凯莎' },
       { text: '凉冰', value: '凉冰' },
