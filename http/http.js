@@ -337,6 +337,33 @@ const allPics = [
 
   // {url:'',name:''},2323舞照降临日海报
 
+  { url: require('../img/mainIng/凉冰(144).jpg'), name: '凉冰(144)' },
+  { url: require('../img/mainIng/凉冰(145).jpg'), name: '凉冰(145)' },
+  { url: require('../img/mainIng/凉冰(146).jpg'), name: '凉冰(146)' },
+  { url: require('../img/mainIng/凉冰(147).jpg'), name: '凉冰(147)' },
+  { url: require('../img/mainIng/凉冰(148).jpg'), name: '凉冰(148)' },
+  { url: require('../img/mainIng/凉冰(149).jpg'), name: '凉冰(149)' },
+  { url: require('../img/mainIng/凉冰(150).jpg'), name: '凉冰(150)' },
+  { url: require('../img/mainIng/凉冰(151).jpg'), name: '凉冰(151)' },
+  { url: require('../img/mainIng/凉冰(152).jpg'), name: '凉冰(152)' },
+  { url: require('../img/mainIng/凉冰(153).jpg'), name: '凉冰(153)' },
+  { url: require('../img/mainIng/凉冰(154).jpg'), name: '凉冰(154)' },
+  { url: require('../img/mainIng/凉冰(155).jpg'), name: '凉冰(155)' },
+  { url: require('../img/mainIng/凉冰(156).jpg'), name: '凉冰(156)' },
+  { url: require('../img/mainIng/凉冰(157).jpg'), name: '凉冰(157)' },
+  { url: require('../img/mainIng/凉冰(158).jpg'), name: '凉冰(158)' },
+  { url: require('../img/mainIng/凉冰(159).jpg'), name: '凉冰(159)' },
+  { url: require('../img/mainIng/凉冰(161).jpg'), name: '凉冰(161)' },
+  { url: require('../img/mainIng/凉冰(162).jpg'), name: '凉冰(162)' },
+  { url: require('../img/mainIng/凉冰(163).jpg'), name: '凉冰(163)' },
+
+  { url: require('../img/mainIng/AI凯莎(89).jpg'), name: 'AI凯莎(89)' },
+  { url: require('../img/mainIng/AI凯莎(90).jpg'), name: 'AI凯莎(90)' },
+  { url: require('../img/mainIng/AI凯莎(91).jpg'), name: 'AI凯莎(91)' },
+  { url: require('../img/mainIng/AI凯莎(92).jpg'), name: 'AI凯莎(92)' },
+  { url: require('../img/mainIng/AI凯莎(93).jpg'), name: 'AI凯莎(93)' },
+  { url: require('../img/mainIng/AI凯莎(94).jpg'), name: 'AI凯莎(94)' },
+
   { url: require('../img/mainIng/AI彦(473).jpg'), name: 'AI彦(473)' },
   { url: require('../img/mainIng/AI彦(474).jpg'), name: 'AI彦(474)' },
   { url: require('../img/mainIng/AI彦(475).jpg'), name: 'AI彦(475)' },
