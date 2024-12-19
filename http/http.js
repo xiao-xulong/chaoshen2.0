@@ -490,7 +490,7 @@ const allPics = [
   { url: require('../img/mainIng/凉冰(163).jpg'), name: '凉冰(163)' },
   { url: require('../img/mainIng/凉冰(164).jpg'), name: '凉冰(164)' },
   { url: require('../img/mainIng/凉冰(165).jpg'), name: '凉冰(165)' },
-
+  { url: require('../img/mainIng/凉冰(166).jpg'), name: '凉冰(166)' },
 
   { url: require('../img/mainIng/AI凯莎(89).jpg'), name: 'AI凯莎(89)' },
   { url: require('../img/mainIng/AI凯莎(90).jpg'), name: 'AI凯莎(90)' },
