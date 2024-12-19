@@ -485,7 +485,7 @@ const allPics = [
   { url: require('../img/mainIng/AI凉冰(158).jpg'), name: 'AI凉冰(158)' },
   { url: require('../img/mainIng/AI凉冰(159).jpg'), name: 'AI凉冰(159)' },
   { url: require('../img/mainIng/AI凉冰(160).jpg'), name: 'AI凉冰(160)' },
-  { url: require('../img/mainIng/凉冰(161).jpg'), name: 'AI凉冰(161)' },
+  { url: require('../img/mainIng/AI凉冰(161).jpg'), name: 'AI凉冰(161)' },
   { url: require('../img/mainIng/AI凉冰(162).jpg'), name: 'AI凉冰(162)' },
   { url: require('../img/mainIng/AI凉冰(163).jpg'), name: 'AI凉冰(163)' },
   { url: require('../img/mainIng/AI凉冰(164).jpg'), name: 'AI凉冰(164)' },
