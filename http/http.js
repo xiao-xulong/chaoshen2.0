@@ -454,7 +454,20 @@ const allPics = [
   { url: require('../img/mainIng/AI彦(536).jpg'), name: 'AI彦(536)' },
   { url: require('../img/mainIng/AI彦(537).jpg'), name: 'AI彦(537)' },
   { url: require('../img/mainIng/AI彦(538).jpg'), name: 'AI彦(538)' },
+  { url: require('../img/mainIng/AI彦(539).jpg'), name: 'AI彦(539)' },
+  { url: require('../img/mainIng/AI彦(540).jpg'), name: 'AI彦(540)' },
+  { url: require('../img/mainIng/AI彦(541).jpg'), name: 'AI彦(541)' },
+  { url: require('../img/mainIng/AI彦(542).jpg'), name: 'AI彦(542)' },
 
+  { url: require('../img/mainIng/AI彦(543).jpg'), name: 'AI彦(543)' },
+  { url: require('../img/mainIng/AI彦(544).jpg'), name: 'AI彦(544)' },
+  { url: require('../img/mainIng/AI彦(545).jpg'), name: 'AI彦(545)' },
+
+  { url: require('../img/mainIng/AI彦(546).jpg'), name: 'AI彦(546)' },
+  { url: require('../img/mainIng/AI彦(547).jpg'), name: 'AI彦(547)' },
+  { url: require('../img/mainIng/AI彦(548).jpg'), name: 'AI彦(548)' },
+  { url: require('../img/mainIng/AI彦(549).jpg'), name: 'AI彦(549)' },
+  { url: require('../img/mainIng/AI彦(550).jpg'), name: 'AI彦(550)' },
 
 
 
