@@ -404,6 +404,12 @@ const allPics = [
   // { url: require('../img/mainIng/AI阿追(27).jpg'), name: 'AI阿追(27)' },
   // { url: require('../img/mainIng/AI阿追(28).jpg'), name: 'AI阿追(28)' },
   // { url: require('../img/mainIng/AI阿追(29).jpg'), name: 'AI阿追(29)' },
+
+  // { url: require('../img/mainIng/AI阿追(30).jpg'), name: 'AI阿追(30)' },
+  // { url: require('../img/mainIng/AI阿追(31).jpg'), name: 'AI阿追(31)' },
+  // { url: require('../img/mainIng/AI阿追(32).jpg'), name: 'AI阿追(32)' },
+  // { url: require('../img/mainIng/AI阿追(33).jpg'), name: 'AI阿追(33)' },
+
   // { url: require('../img/mainIng/AI蔷薇(73).jpg'), name: 'AI蔷薇(73)' },
   // { url: require('../img/mainIng/AI蔷薇(74).jpg'), name: 'AI蔷薇(74)' },
   // { url: require('../img/mainIng/AI蔷薇(75).jpg'), name: 'AI蔷薇(75)' },
@@ -436,8 +442,10 @@ const allPics = [
   // { url: require('../img/mainIng/AI蔷薇(102).jpg'), name: 'AI蔷薇(102)' },
   // { url: require('../img/mainIng/AI蔷薇(103).jpg'), name: 'AI蔷薇(103)' },
   // { url: require('../img/mainIng/AI蔷薇(104).jpg'), name: 'AI蔷薇(104)' },
-
-
+  // { url: require('../img/mainIng/AI蔷薇(105).jpg'), name: 'AI蔷薇(105)' },
+  // { url: require('../img/mainIng/AI蔷薇(106).jpg'), name: 'AI蔷薇(106)' },
+  // { url: require('../img/mainIng/AI蔷薇(107).jpg'), name: 'AI蔷薇(107)' },
+  // { url: require('../img/mainIng/AI蔷薇(108).jpg'), name: 'AI蔷薇(108)' },
 
   // { url: require('../img/mainIng/AI彦(524).jpg'), name: 'AI彦(524)' },
   // { url: require('../img/mainIng/AI彦(525).jpg'), name: 'AI彦(525)' },
@@ -480,7 +488,14 @@ const allPics = [
   // { url: require('../img/mainIng/AI鹤熙(182).jpg'), name: 'AI鹤熙(182)' },
   // { url: require('../img/mainIng/AI鹤熙(183).jpg'), name: 'AI鹤熙(183)' },
   // { url: require('../img/mainIng/AI鹤熙(184).jpg'), name: 'AI鹤熙(184)' },
-
+  // { url: require('../img/mainIng/AI鹤熙(185).jpg'), name: 'AI鹤熙(185)' },
+  // { url: require('../img/mainIng/AI鹤熙(186).jpg'), name: 'AI鹤熙(186)' },
+  // { url: require('../img/mainIng/AI鹤熙(187).jpg'), name: 'AI鹤熙(187)' },
+  // { url: require('../img/mainIng/AI鹤熙(188).jpg'), name: 'AI鹤熙(188)' },
+  // { url: require('../img/mainIng/AI鹤熙(189).jpg'), name: 'AI鹤熙(189)' },
+  // { url: require('../img/mainIng/AI鹤熙(190).jpg'), name: 'AI鹤熙(190)' },
+  // { url: require('../img/mainIng/AI鹤熙(191).jpg'), name: 'AI鹤熙(191)' },
+  // { url: require('../img/mainIng/AI鹤熙(192).jpg'), name: 'AI鹤熙(192)' },
   // { url: require('../img/mainIng/AI凉冰(144).jpg'), name: 'AI凉冰(144)' },
   // { url: require('../img/mainIng/AI凉冰(145).jpg'), name: 'AI凉冰(145)' },
   // { url: require('../img/mainIng/AI凉冰(146).jpg'), name: 'AI凉冰(146)' },
