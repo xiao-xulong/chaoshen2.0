@@ -15,6 +15,7 @@ const vips = [
   { qq: "3361243351", name: "serenaipity", money: "50" },
   { qq: "1754124297", name: "申岩", money: "50" },
   { qq: "916646746", name: "裹着心的光", money: "50" },
+  { qq: "1271327179", name: "浅雨", money: "50" },
   { qq: "506877669", name: "城", money: "35" },
   { qq: "3182063140", name: "LUDA。", money: "35" },
   { qq: "2516392735", name: "Lightning Offensive", money: "35" },
