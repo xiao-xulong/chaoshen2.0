@@ -334,6 +334,79 @@ const examplePics = [
 // ];
 
 const allPics = [
+
+
+  { url: require('../img/mainIng/AI彦(551).jpg'), name: 'AI彦(551)' },
+  { url: require('../img/mainIng/AI彦(552).jpg'), name: 'AI彦(552)' },
+  { url: require('../img/mainIng/AI彦(553).jpg'), name: 'AI彦(553)' },
+  { url: require('../img/mainIng/AI彦(554).jpg'), name: 'AI彦(554)' },
+  { url: require('../img/mainIng/AI彦(555).jpg'), name: 'AI彦(555)' },
+  { url: require('../img/mainIng/AI彦(556).jpg'), name: 'AI彦(556)' },
+  { url: require('../img/mainIng/AI彦(557).jpg'), name: 'AI彦(557)' },
+  { url: require('../img/mainIng/AI彦(558).jpg'), name: 'AI彦(558)' },
+  { url: require('../img/mainIng/AI彦(559).jpg'), name: 'AI彦(559)' },
+  { url: require('../img/mainIng/AI彦(560).jpg'), name: 'AI彦(560)' },
+  { url: require('../img/mainIng/AI彦(561).jpg'), name: 'AI彦(561)' },
+  { url: require('../img/mainIng/AI彦(562).jpg'), name: 'AI彦(562)' },
+  { url: require('../img/mainIng/AI彦(563).jpg'), name: 'AI彦(563)' },
+  { url: require('../img/mainIng/AI彦(564).jpg'), name: 'AI彦(564)' },
+  { url: require('../img/mainIng/AI彦(565).jpg'), name: 'AI彦(565)' },
+  { url: require('../img/mainIng/AI彦(566).jpg'), name: 'AI彦(566)' },
+  { url: require('../img/mainIng/AI彦(567).jpg'), name: 'AI彦(567)' },
+  { url: require('../img/mainIng/AI彦(568).jpg'), name: 'AI彦(568)' },
+  { url: require('../img/mainIng/AI彦(569).jpg'), name: 'AI彦(569)' },
+  { url: require('../img/mainIng/AI彦(570).jpg'), name: 'AI彦(570)' },
+  { url: require('../img/mainIng/AI彦(571).jpg'), name: 'AI彦(571)' },
+  { url: require('../img/mainIng/AI彦(572).jpg'), name: 'AI彦(572)' },
+  { url: require('../img/mainIng/AI彦(573).jpg'), name: 'AI彦(573)' },
+  { url: require('../img/mainIng/AI彦(574).jpg'), name: 'AI彦(574)' },
+  { url: require('../img/mainIng/AI彦(575).jpg'), name: 'AI彦(575)' },
+  { url: require('../img/mainIng/AI彦(576).jpg'), name: 'AI彦(576)' },
+  { url: require('../img/mainIng/AI彦(577).jpg'), name: 'AI彦(577)' },
+  { url: require('../img/mainIng/AI彦(578).jpg'), name: 'AI彦(578)' },
+  { url: require('../img/mainIng/AI彦(579).jpg'), name: 'AI彦(579)' },
+  { url: require('../img/mainIng/AI彦(580).jpg'), name: 'AI彦(580)' },
+  { url: require('../img/mainIng/AI彦(581).jpg'), name: 'AI彦(581)' },
+  { url: require('../img/mainIng/AI彦(582).jpg'), name: 'AI彦(582)' },
+  { url: require('../img/mainIng/AI彦(583).jpg'), name: 'AI彦(583)' },
+  { url: require('../img/mainIng/AI彦(584).jpg'), name: 'AI彦(584)' },
+  { url: require('../img/mainIng/AI彦(585).jpg'), name: 'AI彦(585)' },
+  { url: require('../img/mainIng/AI彦(586).jpg'), name: 'AI彦(586)' },
+  { url: require('../img/mainIng/AI彦(587).jpg'), name: 'AI彦(587)' },
+  { url: require('../img/mainIng/AI彦(588).jpg'), name: 'AI彦(588)' },
+  { url: require('../img/mainIng/AI彦(589).jpg'), name: 'AI彦(589)' },
+  { url: require('../img/mainIng/AI彦(590).jpg'), name: 'AI彦(590)' },
+  { url: require('../img/mainIng/AI彦(591).jpg'), name: 'AI彦(591)' },
+  { url: require('../img/mainIng/AI彦(592).jpg'), name: 'AI彦(592)' },
+  { url: require('../img/mainIng/AI彦(593).jpg'), name: 'AI彦(593)' },
+  { url: require('../img/mainIng/AI彦(594).jpg'), name: 'AI彦(594)' },
+
+  { url: require('../img/mainIng/AI鹤熙(209).jpg'), name: 'AI鹤熙(209)' },
+  { url: require('../img/mainIng/AI鹤熙(210).jpg'), name: 'AI鹤熙(210)' },
+  { url: require('../img/mainIng/AI鹤熙(211).jpg'), name: 'AI鹤熙(211)' },
+  { url: require('../img/mainIng/AI鹤熙(212).jpg'), name: 'AI鹤熙(212)' },
+  { url: require('../img/mainIng/AI鹤熙(213).jpg'), name: 'AI鹤熙(213)' },
+  { url: require('../img/mainIng/AI鹤熙(214).jpg'), name: 'AI鹤熙(214)' },
+  { url: require('../img/mainIng/AI鹤熙(215).jpg'), name: 'AI鹤熙(215)' },
+  { url: require('../img/mainIng/AI鹤熙(216).jpg'), name: 'AI鹤熙(216)' },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   { url: require('../img/mainIng/AI鹤熙(193).jpg'), name: 'AI鹤熙(193)' },
   { url: require('../img/mainIng/AI鹤熙(194).jpg'), name: 'AI鹤熙(194)' },
   { url: require('../img/mainIng/AI鹤熙(195).jpg'), name: 'AI鹤熙(195)' },
