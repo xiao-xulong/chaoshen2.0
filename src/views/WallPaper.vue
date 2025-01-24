@@ -48,6 +48,7 @@ export default {
       { text: '阿狸', value: '阿狸' },
       { text: '蕾娜', value: '蕾娜' },
       { text: '怜风', value: '怜风' },
+      { text: '舞照', value: '舞照' },
       { text: '群像', value: '群像' },
     ];
     let show = ref(true);
