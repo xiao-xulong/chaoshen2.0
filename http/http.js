@@ -334,6 +334,7 @@ const examplePics = [
 // ];
 
 const allPics = [
+  { url: require('../img/mainIng/AI雪伊(5).jpg'), name: 'AI雪伊(5)' },
   // { url: require('../img/mainIng/AI鹤熙(220).jpg'), name: 'AI鹤熙(220)' },
   // { url: require('../img/mainIng/AI鹤熙(221).jpg'), name: 'AI鹤熙(221)' },
   // { url: require('../img/mainIng/AI鹤熙(222).jpg'), name: 'AI鹤熙(222)' },
@@ -561,6 +562,7 @@ const allPics = [
   // { url: require('../img/mainIng/AI蔷薇(151).jpg'), name: 'AI蔷薇(151)' },
   // { url: require('../img/mainIng/AI蔷薇(152).jpg'), name: 'AI蔷薇(152)' },
   // { url: require('../img/mainIng/AI蔷薇(153).jpg'), name: 'AI蔷薇(153)' },
+  // { url: require('../img/mainIng/AI蔷薇(154).jpg'), name: 'AI蔷薇(154)' },
 
   // { url: require('../img/mainIng/AI琪琳(159).jpg'), name: 'AI琪琳(159)' },
   // { url: require('../img/mainIng/AI琪琳(160).jpg'), name: 'AI琪琳(160)' },
@@ -665,9 +667,7 @@ const allPics = [
   // { url: require('../img/mainIng/AI琪琳(259).jpg'), name: 'AI琪琳(259)' },
   // { url: require('../img/mainIng/AI琪琳(260).jpg'), name: 'AI琪琳(260)' },
   // { url: require('../img/mainIng/AI琪琳(261).jpg'), name: 'AI琪琳(261)' },
-
-
-
+  // { url: require('../img/mainIng/AI琪琳(262).jpg'), name: 'AI琪琳(262)' },
   // { url: require('../img/mainIng/AI阿追(34).jpg'), name: 'AI阿追(34)' },
 
 
