@@ -60,8 +60,8 @@ export default {
     let { proxy } = getCurrentInstance();
     onMounted(() => {
       totalNum.value=allPics.length
-      // document.documentElement.scrollTo(0, 0);
-      // const top = document.documentElement.scrollTop || document.body.scrollTop;
+ document.documentElement.scrollTo(0, 0);
+      const top = document.documentElement.scrollTop || document.body.scrollTop;
     });
     let showPic = ref([]);
     let showPicNum = ref(10);
@@ -71,6 +71,7 @@ export default {
     showPic.value = allPics.slice(0, showPicNum.value);
 
     let pageChange = function (num) {
+   
       currentPage.value=num
       console.log(num)
       if (value1.value==='默认排序') {
@@ -80,7 +81,8 @@ export default {
         showPic.value = newPic.value.slice((num-1)*10, num*10)
         console.log(showPic.value )
       }
-       
+      document.documentElement.scrollTo(0, 0);
+      const top = document.documentElement.scrollTop || document.body.scrollTop;
 
     };
     
@@ -115,6 +117,7 @@ export default {
     };
     let  change= function (data) {
 if (data!=='默认排序') {
+ 
   newPic.value=[]
   currentPage.value=1
   allPics.forEach((item)=>{
@@ -124,6 +127,8 @@ newPic.value.push(item)
 })
 showPic.value =newPic.value.slice(0, 10);
 totalNum.value=newPic.value.length
+document.documentElement.scrollTo(0, 0);
+const top = document.documentElement.scrollTop || document.body.scrollTop;
 }else{
   location.reload()
 }
