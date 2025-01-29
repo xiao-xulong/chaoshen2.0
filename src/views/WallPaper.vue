@@ -1,10 +1,11 @@
 <template>
   <div
     class="root"
-    v-infinite-scroll="addShowPic"
-    :infinite-scroll-disabled="noMorePic"
-    infinite-scroll-distance="200"
+  
   >
+  <!-- v-infinite-scroll="addShowPic"
+    :infinite-scroll-disabled="noMorePic"
+    infinite-scroll-distance="200" -->
     <pageTop></pageTop>
     <van-dropdown-menu >
       <van-icon name="search" />
@@ -15,8 +16,9 @@
       <img class="backImg" :src="item.url" @click="goDownload(item)" />
       <center class="imgName">{{ item.name }}</center>
     </div>
-    <button v-show="!noMorePic" @click="addShowPic">更多无水印壁纸</button>
-    <button style="color: orange" v-show="noMorePic">无更多壁纸了！</button>
+    <!-- <button v-show="!noMorePic" @click="addShowPic">更多无水印壁纸</button>
+    <button style="color: orange" v-show="noMorePic">无更多壁纸了！</button> -->
+    <van-pagination @change="pageChange" v-model="currentPage" :total-items="totalNum" :items-per-page="10" />
   </div>
 </template>
 
@@ -25,7 +27,7 @@ import { examplePics, allPics, shootreq } from "../../http/http";
 import pageTop from "../components/pageTop";
 import { onMounted, ref, getCurrentInstance } from "vue";
 import { useRouter } from "vue-router";
-import { DropdownMenu, DropdownItem } from 'vant';
+import { DropdownMenu, DropdownItem ,Pagination } from 'vant';
 export default {
   name: "WallPaper",
   components: {
@@ -34,7 +36,7 @@ export default {
   setup() {
     console.log(allPics);
     const value1 = ref('默认排序');
-
+    const currentPage = ref(1);
     const option1 = [
       { text: '默认排序', value: '默认排序' },
       { text: '彦', value: '彦' },
@@ -57,14 +59,31 @@ export default {
     console.log(wid.value.imgHei);
     let { proxy } = getCurrentInstance();
     onMounted(() => {
-      document.documentElement.scrollTo(0, 0);
-      const top = document.documentElement.scrollTop || document.body.scrollTop;
+      totalNum.value=allPics.length
+      // document.documentElement.scrollTo(0, 0);
+      // const top = document.documentElement.scrollTop || document.body.scrollTop;
     });
     let showPic = ref([]);
-    let showPicNum = ref(5);
+    let showPicNum = ref(10);
+    let totalNum = ref(0);
     let noMorePic = ref(false);
     let newPic=ref([])
     showPic.value = allPics.slice(0, showPicNum.value);
+
+    let pageChange = function (num) {
+      currentPage.value=num
+      console.log(num)
+      if (value1.value==='默认排序') {
+        showPic.value = allPics.slice((num-1)*10, num*10);
+        console.log(showPic.value )
+      }else{
+        showPic.value = newPic.value.slice((num-1)*10, num*10)
+        console.log(showPic.value )
+      }
+       
+
+    };
+    
     let addShowPic = function () {
 
       showPicNum.value += 5;
@@ -97,13 +116,14 @@ export default {
     let  change= function (data) {
 if (data!=='默认排序') {
   newPic.value=[]
+  currentPage.value=1
   allPics.forEach((item)=>{
 if(item.name.indexOf(data) !==-1){
 newPic.value.push(item)
 }
 })
-showPic.value =newPic.value.slice(0, showPicNum.value);
-
+showPic.value =newPic.value.slice(0, 10);
+totalNum.value=newPic.value.length
 }else{
   location.reload()
 }
@@ -123,6 +143,9 @@ console.log(newPic.value);
       goDownload,
       wid,
       change
+    ,totalNum,
+     currentPage,
+     pageChange
     };
   },
 };
