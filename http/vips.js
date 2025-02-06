@@ -65,6 +65,7 @@ const vips = [
   { qq: "3592539720", name: "鑫辰", money: "20" },
   { qq: "907260926", name: "夜独醉", money: "20" },
   { qq: "1363210441", name: "你猜呀", money: "20" },
+  { qq: "1731299038", name: "烟火", money: "20" },
   { qq: "947062775", name: "Waneefan", money: "18" },
   { qq: "274333000", name: "穿越", money: "16.8" },
   { qq: "3170119613", name: "༺星河如梦༺", money: "15" },
