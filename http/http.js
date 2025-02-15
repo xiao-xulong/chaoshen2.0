@@ -334,6 +334,29 @@ const examplePics = [
 // ];
 
 const allPics = [
+  { url: require('../img/mainIng/AI炙心(17).jpg'), name: 'AI炙心(17)' },
+  { url: require('../img/mainIng/AI炙心(18).jpg'), name: 'AI炙心(18)' },
+  { url: require('../img/mainIng/AI炙心(19).jpg'), name: 'AI炙心(19)' },
+  { url: require('../img/mainIng/AI炙心(20).jpg'), name: 'AI炙心(20)' },
+  { url: require('../img/mainIng/AI炙心(21).jpg'), name: 'AI炙心(21)' },
+  { url: require('../img/mainIng/AI炙心(22).jpg'), name: 'AI炙心(22)' },
+  { url: require('../img/mainIng/AI炙心(23).jpg'), name: 'AI炙心(23)' },
+  { url: require('../img/mainIng/AI炙心(24).jpg'), name: 'AI炙心(24)' },
+  { url: require('../img/mainIng/AI炙心(25).jpg'), name: 'AI炙心(25)' },
+  { url: require('../img/mainIng/AI炙心(26).jpg'), name: 'AI炙心(26)' },
+  { url: require('../img/mainIng/AI炙心(27).jpg'), name: 'AI炙心(27)' },
+  { url: require('../img/mainIng/AI鹤熙(302).jpg'), name: 'AI鹤熙(302)' },
+  { url: require('../img/mainIng/AI鹤熙(303).jpg'), name: 'AI鹤熙(303)' },
+  { url: require('../img/mainIng/AI鹤熙(304).jpg'), name: 'AI鹤熙(304)' },
+  { url: require('../img/mainIng/AI鹤熙(305).jpg'), name: 'AI鹤熙(305)' },
+  { url: require('../img/mainIng/AI琪琳(263).jpg'), name: 'AI鹤熙(263)' },
+
+
+
+
+
+
+
   { url: require('../img/mainIng/AI雪伊(5).jpg'), name: 'AI雪伊(5)' },
   { url: require('../img/mainIng/AI鹤熙(220).jpg'), name: 'AI鹤熙(220)' },
   { url: require('../img/mainIng/AI鹤熙(221).jpg'), name: 'AI鹤熙(221)' },
