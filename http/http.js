@@ -21,7 +21,13 @@ const examplePics = [
     name: "凉冰降临",
   },
 ];
+const other = [
+  {
+    url: require('../img/mainIng/彦 - 感恩节海报.jpg'),
+    name: "彦 - 感恩节海报",
+  },
 
+];
 
 // const sharePics = [
 //   {
@@ -334,6 +340,26 @@ const examplePics = [
 // ];
 
 const allPics = [
+
+  { url: require('../img/mainIng/AI凉冰(288).jpg'), name: 'AI凉冰(288)' },
+  { url: require('../img/mainIng/AI凉冰(289).jpg'), name: 'AI凉冰(289)' },
+  { url: require('../img/mainIng/AI凉冰(290).jpg'), name: 'AI凉冰(290)' },
+  { url: require('../img/mainIng/AI凉冰(291).jpg'), name: 'AI凉冰(291)' },
+  { url: require('../img/mainIng/AI凉冰(292).jpg'), name: 'AI凉冰(292)' },
+  { url: require('../img/mainIng/AI凉冰(293).jpg'), name: 'AI凉冰(293)' },
+  { url: require('../img/mainIng/AI凉冰(294).jpg'), name: 'AI凉冰(294)' },
+  { url: require('../img/mainIng/AI凉冰(295).jpg'), name: 'AI凉冰(295)' },
+  { url: require('../img/mainIng/AI凉冰(296).jpg'), name: 'AI凉冰(296)' },
+  { url: require('../img/mainIng/AI凉冰(297).jpg'), name: 'AI凉冰(297)' },
+  { url: require('../img/mainIng/AI凉冰(298).jpg'), name: 'AI凉冰(298)' },
+  { url: require('../img/mainIng/AI凉冰(299).jpg'), name: 'AI凉冰(299)' },
+  { url: require('../img/mainIng/AI凉冰(300).jpg'), name: 'AI凉冰(300)' },
+  { url: require('../img/mainIng/AI凉冰(301).jpg'), name: 'AI凉冰(301)' },
+  { url: require('../img/mainIng/AI凉冰(302).jpg'), name: 'AI凉冰(302)' },
+  { url: require('../img/mainIng/AI凉冰(303).jpg'), name: 'AI凉冰(303)' },
+  { url: require('../img/mainIng/AI凉冰(304).jpg'), name: 'AI凉冰(304)' },
+  { url: require('../img/mainIng/AI凉冰(305).jpg'), name: 'AI凉冰(305)' },
+
   { url: require('../img/mainIng/AI炙心(17).jpg'), name: 'AI炙心(17)' },
   { url: require('../img/mainIng/AI炙心(18).jpg'), name: 'AI炙心(18)' },
   { url: require('../img/mainIng/AI炙心(19).jpg'), name: 'AI炙心(19)' },
@@ -3248,4 +3274,4 @@ const actp = [
 //   ,name:'皇冠凉冰'},{url:'http://r.photo.store.qq.com/psc?/V5291Pt944vGI6035cbU234hz53UycII/45NBuzDIW489QBoVep5mcT27e*DZIXc5IswTbWMd5bORn8VzLKJKR*woNbssh6yeTpcmUczRMXFXH1L4Q1.I0fvuJCmZqE300rZ3dDEQkuQ!/r'
 //   ,name:'除夕合照'},{url:'http://r.photo.store.qq.com/psc?/V5291Pt944vGI6035cbU234hz53UycII/45NBuzDIW489QBoVep5mcYSuXjv0uPEwcvju8YZ*scI11nPuyYfDW*Gi0qlpu5yGxH28Scy6OnzI7kjxwU1hE0*06N3uMr3uz9e8AMV*3RM!/r',name:'团队（琪琳怜风悟空）'}]
 
-export { allPics, examplePics, QPics, actp };
+export { allPics, examplePics, QPics, actp, other };
