@@ -23,35 +23,74 @@
 </template>
 
 <script>
-import { examplePics, allPics, shootreq } from "../../http/http";
+import { examplePics, allPics, shootreq,other } from "../../http/http";
+import { vips} from "../../http/vips";
 import pageTop from "../components/pageTop";
 import { onMounted, ref, getCurrentInstance } from "vue";
 import { useRouter } from "vue-router";
-import { DropdownMenu, DropdownItem ,Pagination } from 'vant';
+import { DropdownMenu, DropdownItem ,Pagination ,Dialog,Notify} from 'vant';
 export default {
   name: "WallPaper",
   components: {
     pageTop,
   },
   setup() {
-    console.log(allPics);
+    console.log(vips);
+    const isVip = ref(false);
+    const userInfo = vips.find((element) => element.qq == localStorage.getItem('userId'));
+    if (userInfo) {
+      if (Number(userInfo.money)>=20) {
+        isVip.value=true
+      }
+      
+      if (Number(userInfo.money)<20) {
+        isVip.value=false
+        Dialog.alert({
+        title: "提示",
+       overlayClass: "tip-dialog",
+         width: "80%",
+         message:
+           "您不是VIP仅能浏览一页，联系Q群760844036",
+
+       })
+      }
+      
+    }else{
+      isVip.value=false
+      Dialog.alert({
+        title: "提示",
+       overlayClass: "tip-dialog",
+         width: "80%",
+         message:
+           "您不是VIP仅能浏览一页，联系Q群760844036",
+
+       })
+    }
+
+    console.log(userInfo);
     const value1 = ref('默认排序');
     const currentPage = ref(1);
+
     const option1 = [
       { text: '默认排序', value: '默认排序' },
-      { text: '彦', value: '彦' },
-      { text: '阿追', value: '阿追' },
-      { text: '蔷薇', value: '蔷薇' },
-      { text: '鹤熙', value: '鹤熙' },
-      { text: '凯莎', value: '凯莎' },
-      { text: '凉冰', value: '凉冰' },
-      { text: '琪琳', value: '琪琳' },
-      { text: '炙心', value: '炙心' },
-      { text: '阿狸', value: '阿狸' },
-      { text: '蕾娜', value: '蕾娜' },
-      { text: '怜风', value: '怜风' },
-      { text: '舞照', value: '舞照' },
-      { text: '群像', value: '群像' },
+      { text: '白月魁', value: '白月魁' },
+      { text: '云韵', value: '云韵' },
+      { text: '云霄', value: '云霄' },
+      { text: '雅妃', value: '雅妃' },
+      { text: '玄衣', value: '玄衣' },
+      { text: '小医仙', value: '小医仙' },
+      { text: '小白', value: '小白' },
+      { text: '萧薰儿', value: '萧薰儿' },
+      { text: '天穹', value: '天穹' },
+      { text: '千仞雪', value: '千仞雪' },
+      { text: '宁雨蝶', value: '宁雨蝶' },
+      { text: '宁桃', value: '宁桃' },
+      { text: '纳兰嫣然', value: '纳兰嫣然' },
+      { text: '美杜莎', value: '美杜莎' },
+      { text: '陆雪琪', value: '陆雪琪' },
+      { text: '韩月', value: '韩月' },
+      { text: '曹颖', value: '曹颖' },
+      { text: '比比东', value: '比比东' },
     ];
     let show = ref(true);
     const wid = ref({ imgHei: 0 });
@@ -59,7 +98,7 @@ export default {
     console.log(wid.value.imgHei);
     let { proxy } = getCurrentInstance();
     onMounted(() => {
-      totalNum.value=allPics.length
+      totalNum.value=other.length
  document.documentElement.scrollTo(0, 0);
       const top = document.documentElement.scrollTop || document.body.scrollTop;
     });
@@ -68,14 +107,15 @@ export default {
     let totalNum = ref(0);
     let noMorePic = ref(false);
     let newPic=ref([])
-    showPic.value = allPics.slice(0, showPicNum.value);
+    showPic.value = other.slice(0, showPicNum.value);
 
     let pageChange = function (num) {
-   
+if (isVip.value===true) {
+  
       currentPage.value=num
       console.log(num)
       if (value1.value==='默认排序') {
-        showPic.value = allPics.slice((num-1)*10, num*10);
+        showPic.value = other.slice((num-1)*10, num*10);
         console.log(showPic.value )
       }else{
         showPic.value = newPic.value.slice((num-1)*10, num*10)
@@ -83,6 +123,18 @@ export default {
       }
       document.documentElement.scrollTo(0, 0);
       const top = document.documentElement.scrollTop || document.body.scrollTop;
+    
+}else{currentPage.value=1
+  Dialog.alert({
+        title: "提示",
+       overlayClass: "tip-dialog",
+         width: "80%",
+         message:
+           "您不是VIP仅能浏览一页，联系Q群760844036",
+
+       })
+}
+      
 
     };
     
@@ -90,10 +142,10 @@ export default {
 
       showPicNum.value += 5;
       if (value1.value==='默认排序') {
-        if (allPics[showPicNum.value - 1] != undefined) {
-        showPic.value = allPics.slice(0, showPicNum.value);
+        if (other[showPicNum.value - 1] != undefined) {
+        showPic.value = other.slice(0, showPicNum.value);
       } else {
-        showPic.value = allPics;
+        showPic.value = other;
         noMorePic.value = true;
       }
       }else{
@@ -120,7 +172,7 @@ if (data!=='默认排序') {
  
   newPic.value=[]
   currentPage.value=1
-  allPics.forEach((item)=>{
+  other.forEach((item)=>{
 if(item.name.indexOf(data) !==-1){
 newPic.value.push(item)
 }
@@ -150,9 +202,12 @@ console.log(newPic.value);
       change
     ,totalNum,
      currentPage,
-     pageChange
+     pageChange,
+     other,
+     isVip
     };
-  },
+  }
+
 };
 </script>
 

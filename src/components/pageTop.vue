@@ -32,7 +32,7 @@ export default {
 
     let { proxy } = getCurrentInstance()
     console.log(proxy.$router.currentRoute.value.name)
-    const menuList = [{ name: 'Home', text: '首页' }, { name: 'WallPaper', text: '精美壁纸' },
+    const menuList = [{ name: 'Home', text: '首页' }, { name: 'WallPaper', text: '雄兵连专区' },
     { name: 'QPics', text: 'Q版雄兵连' },
    { name: 'Share', text: '国漫精品' },
     //  { name: 'xiongThree', text: '雄三在线' },
