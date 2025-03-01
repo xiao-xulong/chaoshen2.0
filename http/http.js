@@ -1611,6 +1611,15 @@ const other = [
     name: 'AI千仞雪(108)',
   },
   {
+    url: require('../img/otherImg/AI千仞雪(109).jpg'),
+    name: 'AI千仞雪(109)',
+  },
+  {
+    url: require('../img/otherImg/AI千仞雪(110).jpg'),
+    name: 'AI千仞雪(110)',
+  },
+
+  {
     url: require('../img/otherImg/AI千仞雪.jpg'),
     name: 'AI千仞雪',
   },
