@@ -8119,10 +8119,7 @@ const other = [
     url: require('../img/otherImg/AI宁雨蝶(191).jpg'),
     name: 'AI宁雨蝶(191)',
   },
-  {
-    url: require('../img/otherImg/AI宁雨蝶(192).jpg'),
-    name: 'AI宁雨蝶(192)',
-  },
+
   {
     url: require('../img/otherImg/AI宁雨蝶.jpg'),
     name: 'AI宁雨蝶',
@@ -15117,6 +15114,10 @@ const other = [
   {
     url: require('../img/otherImg/AI天穹(87).jpg'),
     name: 'AI天穹(87)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(88).jpg'),
+    name: 'AI天穹(88)',
   },
   {
     url: require('../img/otherImg/AI天穹.jpg'),
