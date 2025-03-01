@@ -8116,6 +8116,14 @@ const other = [
     name: 'AI宁雨蝶(190)',
   },
   {
+    url: require('../img/otherImg/AI宁雨蝶(191).jpg'),
+    name: 'AI宁雨蝶(191)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(192).jpg'),
+    name: 'AI宁雨蝶(192)',
+  },
+  {
     url: require('../img/otherImg/AI宁雨蝶.jpg'),
     name: 'AI宁雨蝶',
   },
