@@ -23,6 +23,58 @@ const examplePics = [
 ];
 const other = [
   {
+    url: require('../img/otherImg/AI美杜莎(291).jpg'),
+    name: 'AI美杜莎(291)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(292).jpg'),
+    name: 'AI美杜莎(292)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(293).jpg'),
+    name: 'AI美杜莎(293)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(294).jpg'),
+    name: 'AI美杜莎(294)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(295).jpg'),
+    name: 'AI美杜莎(295)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(296).jpg'),
+    name: 'AI美杜莎(296)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(297).jpg'),
+    name: 'AI美杜莎(297)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(298).jpg'),
+    name: 'AI美杜莎(298)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(299).jpg'),
+    name: 'AI美杜莎(299)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(300).jpg'),
+    name: 'AI美杜莎(300)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(301).jpg'),
+    name: 'AI美杜莎(301)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(302).jpg'),
+    name: 'AI美杜莎(302)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(303).jpg'),
+    name: 'AI美杜莎(303)',
+  },
+  {
     url: require('../img/otherImg/AI美杜莎(2).jpg'),
     name: 'AI美杜莎(2)',
   },
@@ -8125,6 +8177,10 @@ const other = [
     name: 'AI宁雨蝶',
   },
   {
+    url: require('../img/otherImg/AI萧薰儿(287).jpg'),
+    name: 'AI萧薰儿(287)',
+  },
+  {
     url: require('../img/otherImg/AI萧薰儿(2).jpg'),
     name: 'AI萧薰儿(2)',
   },
@@ -10011,6 +10067,22 @@ const other = [
   {
     url: require('../img/otherImg/AI小白.jpg'),
     name: 'AI小白',
+  },
+
+
+
+
+
+
+
+
+  {
+    url: require('../img/otherImg/AI小医仙(247).jpg'),
+    name: 'AI小医仙(247)',
+  },
+  {
+    url: require('../img/otherImg/AI小医仙(248).jpg'),
+    name: 'AI小医仙(248)',
   },
   {
     url: require('../img/otherImg/AI小医仙(2).jpg'),
@@ -12107,6 +12179,10 @@ const other = [
     name: 'AI玄衣',
   },
   {
+    url: require('../img/otherImg/AI雅妃(278).jpg'),
+    name: 'AI雅妃(278)',
+  },
+  {
     url: require('../img/otherImg/AI雅妃(2).jpg'),
     name: 'AI雅妃(2)',
   },
@@ -13214,6 +13290,26 @@ const other = [
     url: require('../img/otherImg/AI雅妃.jpg'),
     name: 'AI雅妃',
   },
+
+
+
+
+
+
+
+  {
+    url: require('../img/otherImg/AI云霄(355).jpg'),
+    name: 'AI云霄(355)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(356).jpg'),
+    name: 'AI云霄(356)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(357).jpg'),
+    name: 'AI云霄(357)',
+  },
+
   {
     url: require('../img/otherImg/AI云霄(2).jpg'),
     name: 'AI云霄(2)',
@@ -14771,6 +14867,24 @@ const other = [
     url: require('../img/otherImg/AI纳兰嫣然.jpg'),
     name: 'AI纳兰嫣然',
   },
+
+
+  {
+    url: require('../img/otherImg/AI天穹(89).jpg'),
+    name: 'AI天穹(89)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(90).jpg'),
+    name: 'AI天穹(90)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(91).jpg'),
+    name: 'AI天穹(91)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(92).jpg'),
+    name: 'AI天穹(92)',
+  },
   {
     url: require('../img/otherImg/AI天穹(2).jpg'),
     name: 'AI天穹(2)',
@@ -15122,6 +15236,30 @@ const other = [
   {
     url: require('../img/otherImg/AI天穹.jpg'),
     name: 'AI天穹',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(96).jpg'),
+    name: 'AI云韵(96)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(97).jpg'),
+    name: 'AI云韵(97)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(98).jpg'),
+    name: 'AI云韵(98)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(99).jpg'),
+    name: 'AI云韵(99)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(100).jpg'),
+    name: 'AI云韵(100)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(101).jpg'),
+    name: 'AI云韵(101)',
   },
   {
     url: require('../img/otherImg/AI云韵(2).jpg'),
