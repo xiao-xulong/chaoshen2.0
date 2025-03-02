@@ -37,6 +37,12 @@ export default {
   setup() {
     console.log(vips);
     const isVip = ref(false);
+    let num=0
+    vips.forEach((i)=>{
+num=num+Number(i.money)
+    })
+    console.log(num);
+    
     const userInfo = vips.find((element) => element.qq == localStorage.getItem('userId'));
     if (userInfo) {
       if (Number(userInfo.money)>=20) {

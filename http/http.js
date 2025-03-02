@@ -4356,6 +4356,40 @@ const other = [
     name: 'AI曹颖',
   },
   {
+    url: require('../img/otherImg/AI韩月 (265).jpg'),
+    name: 'AI韩月(265)',
+  },
+  {
+    url: require('../img/otherImg/AI韩月 (266).jpg'),
+    name: 'AI韩月(266)',
+  },
+  {
+    url: require('../img/otherImg/AI韩月 (267).jpg'),
+    name: 'AI韩月(267)',
+  },
+  {
+    url: require('../img/otherImg/AI韩月 (268).jpg'),
+    name: 'AI韩月(268)',
+  },
+  {
+    url: require('../img/otherImg/AI韩月 (269).jpg'),
+    name: 'AI韩月(269)',
+  },
+  {
+    url: require('../img/otherImg/AI韩月 (270).jpg'),
+    name: 'AI韩月(270)',
+  },
+  {
+    url: require('../img/otherImg/AI韩月 (271).jpg'),
+    name: 'AI韩月(271)',
+  },
+
+  {
+    url: require('../img/otherImg/AI韩月 (272).jpg'),
+    name: 'AI韩月(272)',
+  },
+
+  {
     url: require('../img/otherImg/AI韩月 (2).jpg'),
     name: 'AI韩月(2)',
   },
