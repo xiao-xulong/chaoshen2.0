@@ -15272,6 +15272,14 @@ const other = [
     name: 'AI天穹',
   },
   {
+    url: require('../img/otherImg/AI云韵(102).jpg'),
+    name: 'AI云韵(102)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(103).jpg'),
+    name: 'AI云韵(103)',
+  },
+  {
     url: require('../img/otherImg/AI云韵(96).jpg'),
     name: 'AI云韵(96)',
   },
