@@ -14762,6 +14762,63 @@ const other = [
     name: 'AI云霄',
   },
   {
+    url: require('../img/otherImg/AI纳兰嫣然 (36).jpg'),
+    name: 'AI纳兰嫣然 (36)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (37).jpg'),
+    name: 'AI纳兰嫣然 (37)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (38).jpg'),
+    name: 'AI纳兰嫣然 (38)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (39).jpg'),
+    name: 'AI纳兰嫣然 (39)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (40).jpg'),
+    name: 'AI纳兰嫣然 (40)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (41).jpg'),
+    name: 'AI纳兰嫣然 (41)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (42).jpg'),
+    name: 'AI纳兰嫣然 (42)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (43).jpg'),
+    name: 'AI纳兰嫣然 (43)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (44).jpg'),
+    name: 'AI纳兰嫣然 (44)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (45).jpg'),
+    name: 'AI纳兰嫣然 (45)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (46).jpg'),
+    name: 'AI纳兰嫣然 (46)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (47).jpg'),
+    name: 'AI纳兰嫣然 (47)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (48).jpg'),
+    name: 'AI纳兰嫣然 (48)',
+  },
+  {
+    url: require('../img/otherImg/AI纳兰嫣然 (49).jpg'),
+    name: 'AI纳兰嫣然 (49)',
+  },
+
+  {
     url: require('../img/otherImg/AI纳兰嫣然 (2).jpg'),
     name: 'AI纳兰嫣然 (2)',
   },
