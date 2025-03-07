@@ -14993,7 +14993,22 @@ const other = [
     url: require('../img/otherImg/AI纳兰嫣然.jpg'),
     name: 'AI纳兰嫣然',
   },
-
+  {
+    url: require('../img/otherImg/AI天穹(123).jpg'),
+    name: 'AI天穹(123)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(124).jpg'),
+    name: 'AI天穹(124)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(125).jpg'),
+    name: 'AI天穹(125)',
+  },
+  {
+    url: require('../img/otherImg/AI天穹(126).jpg'),
+    name: 'AI天穹(126)',
+  },
   {
     url: require('../img/otherImg/AI天穹(93).jpg'),
     name: 'AI天穹(93)',
