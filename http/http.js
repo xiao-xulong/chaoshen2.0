@@ -13661,18 +13661,6 @@ const other = [
 
 
 
-  {
-    url: require('../img/otherImg/AI云霄(355).jpg'),
-    name: 'AI云霄(355)',
-  },
-  {
-    url: require('../img/otherImg/AI云霄(356).jpg'),
-    name: 'AI云霄(356)',
-  },
-  {
-    url: require('../img/otherImg/AI云霄(357).jpg'),
-    name: 'AI云霄(357)',
-  },
 
   {
     url: require('../img/otherImg/AI云霄(2).jpg'),
