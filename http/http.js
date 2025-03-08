@@ -15781,9 +15781,58 @@ const other = [
     url: require('../img/otherImg/AI天穹.jpg'),
     name: 'AI天穹',
   },
-
-
-
+  {
+    url: require('../img/otherImg/AI云韵(113).jpg'),
+    name: 'AI云韵(113)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(114).jpg'),
+    name: 'AI云韵(114)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(115).jpg'),
+    name: 'AI云韵(115)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(116).jpg'),
+    name: 'AI云韵(116)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(117).jpg'),
+    name: 'AI云韵(117)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(118).jpg'),
+    name: 'AI云韵(118)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(119).jpg'),
+    name: 'AI云韵(119)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(120).jpg'),
+    name: 'AI云韵(120)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(121).jpg'),
+    name: 'AI云韵(121)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(122).jpg'),
+    name: 'AI云韵(122)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(123).jpg'),
+    name: 'AI云韵(123)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(124).jpg'),
+    name: 'AI云韵(124)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(125).jpg'),
+    name: 'AI云韵(125)',
+  },
   {
     url: require('../img/otherImg/AI云韵(107).jpg'),
     name: 'AI云韵(107)',
