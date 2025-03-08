@@ -7471,6 +7471,298 @@ const other = [
     url: require('../img/otherImg/AI宁桃.jpg'),
     name: 'AI宁桃',
   },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(193).jpg'),
+    name: 'AI宁雨蝶(193)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(194).jpg'),
+    name: 'AI宁雨蝶(194)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(195).jpg'),
+    name: 'AI宁雨蝶(195)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(196).jpg'),
+    name: 'AI宁雨蝶(196)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(197).jpg'),
+    name: 'AI宁雨蝶(197)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(198).jpg'),
+    name: 'AI宁雨蝶(198)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(199).jpg'),
+    name: 'AI宁雨蝶(199)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(200).jpg'),
+    name: 'AI宁雨蝶(200)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(201).jpg'),
+    name: 'AI宁雨蝶(201)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(202).jpg'),
+    name: 'AI宁雨蝶(202)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(203).jpg'),
+    name: 'AI宁雨蝶(203)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(204).jpg'),
+    name: 'AI宁雨蝶(204)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(205).jpg'),
+    name: 'AI宁雨蝶(205)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(206).jpg'),
+    name: 'AI宁雨蝶(206)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(207).jpg'),
+    name: 'AI宁雨蝶(207)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(208).jpg'),
+    name: 'AI宁雨蝶(208)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(209).jpg'),
+    name: 'AI宁雨蝶(209)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(210).jpg'),
+    name: 'AI宁雨蝶(210)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(211).jpg'),
+    name: 'AI宁雨蝶(211)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(212).jpg'),
+    name: 'AI宁雨蝶(212)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(213).jpg'),
+    name: 'AI宁雨蝶(213)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(214).jpg'),
+    name: 'AI宁雨蝶(214)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(215).jpg'),
+    name: 'AI宁雨蝶(215)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(216).jpg'),
+    name: 'AI宁雨蝶(216)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(217).jpg'),
+    name: 'AI宁雨蝶(217)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(218).jpg'),
+    name: 'AI宁雨蝶(218)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(219).jpg'),
+    name: 'AI宁雨蝶(219)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(220).jpg'),
+    name: 'AI宁雨蝶(220)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(221).jpg'),
+    name: 'AI宁雨蝶(221)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(222).jpg'),
+    name: 'AI宁雨蝶(222)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(223).jpg'),
+    name: 'AI宁雨蝶(223)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(224).jpg'),
+    name: 'AI宁雨蝶(224)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(225).jpg'),
+    name: 'AI宁雨蝶(225)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(226).jpg'),
+    name: 'AI宁雨蝶(226)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(227).jpg'),
+    name: 'AI宁雨蝶(227)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(228).jpg'),
+    name: 'AI宁雨蝶(228)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(229).jpg'),
+    name: 'AI宁雨蝶(229)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(230).jpg'),
+    name: 'AI宁雨蝶(230)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(231).jpg'),
+    name: 'AI宁雨蝶(231)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(232).jpg'),
+    name: 'AI宁雨蝶(232)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(233).jpg'),
+    name: 'AI宁雨蝶(233)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(234).jpg'),
+    name: 'AI宁雨蝶(234)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(235).jpg'),
+    name: 'AI宁雨蝶(235)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(236).jpg'),
+    name: 'AI宁雨蝶(236)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(237).jpg'),
+    name: 'AI宁雨蝶(237)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(238).jpg'),
+    name: 'AI宁雨蝶(238)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(239).jpg'),
+    name: 'AI宁雨蝶(239)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(240).jpg'),
+    name: 'AI宁雨蝶(240)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(241).jpg'),
+    name: 'AI宁雨蝶(241)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(242).jpg'),
+    name: 'AI宁雨蝶(242)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(243).jpg'),
+    name: 'AI宁雨蝶(243)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(244).jpg'),
+    name: 'AI宁雨蝶(244)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(245).jpg'),
+    name: 'AI宁雨蝶(245)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(246).jpg'),
+    name: 'AI宁雨蝶(246)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(247).jpg'),
+    name: 'AI宁雨蝶(247)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(248).jpg'),
+    name: 'AI宁雨蝶(248)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(249).jpg'),
+    name: 'AI宁雨蝶(249)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(250).jpg'),
+    name: 'AI宁雨蝶(250)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(251).jpg'),
+    name: 'AI宁雨蝶(251)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(252).jpg'),
+    name: 'AI宁雨蝶(252)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(253).jpg'),
+    name: 'AI宁雨蝶(253)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(254).jpg'),
+    name: 'AI宁雨蝶(254)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(255).jpg'),
+    name: 'AI宁雨蝶(255)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(256).jpg'),
+    name: 'AI宁雨蝶(256)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(257).jpg'),
+    name: 'AI宁雨蝶(257)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(258).jpg'),
+    name: 'AI宁雨蝶(258)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(259).jpg'),
+    name: 'AI宁雨蝶(259)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(260).jpg'),
+    name: 'AI宁雨蝶(260)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(261).jpg'),
+    name: 'AI宁雨蝶(261)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(262).jpg'),
+    name: 'AI宁雨蝶(262)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(263).jpg'),
+    name: 'AI宁雨蝶(263)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(264).jpg'),
+    name: 'AI宁雨蝶(264)',
+  },
+  {
+    url: require('../img/otherImg/AI宁雨蝶(265).jpg'),
+    name: 'AI宁雨蝶(265)',
+  },
 
   {
     url: require('../img/otherImg/AI宁雨蝶(192).jpg'),
@@ -10143,7 +10435,10 @@ const other = [
 
 
 
-
+  {
+    url: require('../img/otherImg/AI小医仙(249).jpg'),
+    name: 'AI小医仙(249)',
+  },
 
   {
     url: require('../img/otherImg/AI小医仙(247).jpg'),
@@ -15498,6 +15793,37 @@ const other = [
     url: require('../img/otherImg/AI天穹.jpg'),
     name: 'AI天穹',
   },
+
+
+
+  {
+    url: require('../img/otherImg/AI云韵(107).jpg'),
+    name: 'AI云韵(107)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(108).jpg'),
+    name: 'AI云韵(108)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(109).jpg'),
+    name: 'AI云韵(109)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(110).jpg'),
+    name: 'AI云韵(110)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(111).jpg'),
+    name: 'AI云韵(111)',
+  },
+  {
+    url: require('../img/otherImg/AI云韵(112).jpg'),
+    name: 'AI云韵(112)',
+  },
+
+
+
+
   {
     url: require('../img/otherImg/AI云韵(104).jpg'),
     name: 'AI云韵(104)',
