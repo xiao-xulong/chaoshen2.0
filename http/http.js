@@ -22,10 +22,7 @@ const examplePics = [
   },
 ];
 const other = [
-  {
-    url: require('../img/otherImg/AI美杜莎(304).jpg'),
-    name: 'AI美杜莎(304)',
-  },
+
 
   {
     url: require('../img/otherImg/AI美杜莎(291).jpg'),
@@ -39,46 +36,46 @@ const other = [
     url: require('../img/otherImg/AI美杜莎(293).jpg'),
     name: 'AI美杜莎(293)',
   },
-  {
-    url: require('../img/otherImg/AI美杜莎(294).jpg'),
-    name: 'AI美杜莎(294)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(295).jpg'),
-    name: 'AI美杜莎(295)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(296).jpg'),
-    name: 'AI美杜莎(296)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(297).jpg'),
-    name: 'AI美杜莎(297)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(298).jpg'),
-    name: 'AI美杜莎(298)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(299).jpg'),
-    name: 'AI美杜莎(299)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(300).jpg'),
-    name: 'AI美杜莎(300)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(301).jpg'),
-    name: 'AI美杜莎(301)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(302).jpg'),
-    name: 'AI美杜莎(302)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(303).jpg'),
-    name: 'AI美杜莎(303)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(294).jpg'),
+  //   name: 'AI美杜莎(294)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(295).jpg'),
+  //   name: 'AI美杜莎(295)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(296).jpg'),
+  //   name: 'AI美杜莎(296)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(297).jpg'),
+  //   name: 'AI美杜莎(297)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(298).jpg'),
+  //   name: 'AI美杜莎(298)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(299).jpg'),
+  //   name: 'AI美杜莎(299)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(300).jpg'),
+  //   name: 'AI美杜莎(300)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(301).jpg'),
+  //   name: 'AI美杜莎(301)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(302).jpg'),
+  //   name: 'AI美杜莎(302)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(303).jpg'),
+  //   name: 'AI美杜莎(303)',
+  // },
   {
     url: require('../img/otherImg/AI美杜莎(2).jpg'),
     name: 'AI美杜莎(2)',
@@ -4320,42 +4317,42 @@ const other = [
     url: require('../img/otherImg/AI曹颖(212).jpg'),
     name: 'AI曹颖(212)',
   },
-  {
-    url: require('../img/otherImg/AI曹颖(213).jpg'),
-    name: 'AI曹颖(213)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(214).jpg'),
-    name: 'AI曹颖(214)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(215).jpg'),
-    name: 'AI曹颖(215)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(216).jpg'),
-    name: 'AI曹颖(216)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(217).jpg'),
-    name: 'AI曹颖(217)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(218).jpg'),
-    name: 'AI曹颖(218)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(219).jpg'),
-    name: 'AI曹颖(219)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(220).jpg'),
-    name: 'AI曹颖(220)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(221).jpg'),
-    name: 'AI曹颖(221)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(213).jpg'),
+  //   name: 'AI曹颖(213)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(214).jpg'),
+  //   name: 'AI曹颖(214)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(215).jpg'),
+  //   name: 'AI曹颖(215)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(216).jpg'),
+  //   name: 'AI曹颖(216)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(217).jpg'),
+  //   name: 'AI曹颖(217)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(218).jpg'),
+  //   name: 'AI曹颖(218)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(219).jpg'),
+  //   name: 'AI曹颖(219)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(220).jpg'),
+  //   name: 'AI曹颖(220)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(221).jpg'),
+  //   name: 'AI曹颖(221)',
+  // },
   {
     url: require('../img/otherImg/AI曹颖.jpg'),
     name: 'AI曹颖',
@@ -8533,14 +8530,7 @@ const other = [
     url: require('../img/otherImg/AI宁雨蝶.jpg'),
     name: 'AI宁雨蝶',
   },
-  {
-    url: require('../img/otherImg/AI萧薰儿(288).jpg'),
-    name: 'AI萧薰儿(288)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(287).jpg'),
-    name: 'AI萧薰儿(287)',
-  },
+
   {
     url: require('../img/otherImg/AI萧薰儿(2).jpg'),
     name: 'AI萧薰儿(2)',
@@ -9669,18 +9659,7 @@ const other = [
     url: require('../img/otherImg/AI萧薰儿(283).jpg'),
     name: 'AI萧薰儿(283)',
   },
-  {
-    url: require('../img/otherImg/AI萧薰儿(284).jpg'),
-    name: 'AI萧薰儿(284)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(285).jpg'),
-    name: 'AI萧薰儿(285)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(286).jpg'),
-    name: 'AI萧薰儿(286)',
-  },
+
   {
     url: require('../img/otherImg/AI萧薰儿.jpg'),
     name: 'AI萧薰儿',
