@@ -7456,14 +7456,14 @@ const other = [
     url: require('../img/otherImg/AI宁桃 (212).jpg'),
     name: 'AI宁桃 (212)',
   },
-  {
-    url: require('../img/otherImg/AI宁桃 (213).jpg'),
-    name: 'AI宁桃 (213)',
-  },
-  {
-    url: require('../img/otherImg/AI宁桃 (214).jpg'),
-    name: 'AI宁桃 (214)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI宁桃 (213).jpg'),
+  //   name: 'AI宁桃 (213)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI宁桃 (214).jpg'),
+  //   name: 'AI宁桃 (214)',
+  // },
   {
     url: require('../img/otherImg/AI宁桃.jpg'),
     name: 'AI宁桃',
@@ -16578,6 +16578,134 @@ const other = [
 // ];
 
 const allPics = [
+  // {
+  //   url: require('../img/otherImg/AI彦(584).jpg'),
+  //   name: 'AI彦(584)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(585).jpg'),
+  //   name: 'AI彦(585)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(586).jpg'),
+  //   name: 'AI彦(586)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(587).jpg'),
+  //   name: 'AI彦(587)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(588).jpg'),
+  //   name: 'AI彦(588)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(589).jpg'),
+  //   name: 'AI彦(589)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(590).jpg'),
+  //   name: 'AI彦(590)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(591).jpg'),
+  //   name: 'AI彦(591)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(592).jpg'),
+  //   name: 'AI彦(592)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(593).jpg'),
+  //   name: 'AI彦(593)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(594).jpg'),
+  //   name: 'AI彦(594)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(595).jpg'),
+  //   name: 'AI彦(595)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(596).jpg'),
+  //   name: 'AI彦(596)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(597).jpg'),
+  //   name: 'AI彦(597)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(598).jpg'),
+  //   name: 'AI彦(598)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(599).jpg'),
+  //   name: 'AI彦(599)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(600).jpg'),
+  //   name: 'AI彦(600)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(601).jpg'),
+  //   name: 'AI彦(601)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(602).jpg'),
+  //   name: 'AI彦(602)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(603).jpg'),
+  //   name: 'AI彦(603)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(604).jpg'),
+  //   name: 'AI彦(604)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(605).jpg'),
+  //   name: 'AI彦(605)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(606).jpg'),
+  //   name: 'AI彦(606)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(607).jpg'),
+  //   name: 'AI彦(607)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(608).jpg'),
+  //   name: 'AI彦(608)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(609).jpg'),
+  //   name: 'AI彦(609)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(610).jpg'),
+  //   name: 'AI彦(610)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(611).jpg'),
+  //   name: 'AI彦(611)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(612).jpg'),
+  //   name: 'AI彦(612)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(613).jpg'),
+  //   name: 'AI彦(613)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(614).jpg'),
+  //   name: 'AI彦(614)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI彦(615).jpg'),
+  //   name: 'AI彦(615)',
+  // },
 
   {
     url: require('../img/mainIng/AI彦(578).jpg'),
