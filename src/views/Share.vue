@@ -99,6 +99,7 @@ num=num+Number(i.money)
       { text: '比比东', value: '比比东' },
       { text: '剑妈', value: '剑妈' },
       { text: '云曦', value: '云曦' },
+      { text: '小舞', value: '小舞' },
     ];
     let show = ref(true);
     const wid = ref({ imgHei: 0 });

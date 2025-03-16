@@ -52,34 +52,53 @@ const other = [
     name: 'AI美杜莎(293)',
   },
 
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(297).jpg'),
-  //   name: 'AI美杜莎(297)',
-  // },
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(298).jpg'),
-  //   name: 'AI美杜莎(298)',
-  // },
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(299).jpg'),
-  //   name: 'AI美杜莎(299)',
-  // },
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(300).jpg'),
-  //   name: 'AI美杜莎(300)',
-  // },
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(301).jpg'),
-  //   name: 'AI美杜莎(301)',
-  // },
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(302).jpg'),
-  //   name: 'AI美杜莎(302)',
-  // },
-  // {
-  //   url: require('../img/otherImg/AI美杜莎(303).jpg'),
-  //   name: 'AI美杜莎(303)',
-  // },
+  {
+    url: require('../img/otherImg/AI美杜莎(297).jpg'),
+    name: 'AI美杜莎(297)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(298).jpg'),
+    name: 'AI美杜莎(298)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(299).jpg'),
+    name: 'AI美杜莎(299)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(300).jpg'),
+    name: 'AI美杜莎(300)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(301).jpg'),
+    name: 'AI美杜莎(301)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(302).jpg'),
+    name: 'AI美杜莎(302)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(303).jpg'),
+    name: 'AI美杜莎(303)',
+  },
+
+  {
+    url: require('../img/otherImg/AI美杜莎(304).jpg'),
+    name: 'AI美杜莎(304)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(305).jpg'),
+    name: 'AI美杜莎(305)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(306).jpg'),
+    name: 'AI美杜莎(306)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(307).jpg'),
+    name: 'AI美杜莎(307)',
+  },
+
+
   {
     url: require('../img/otherImg/AI美杜莎(2).jpg'),
     name: 'AI美杜莎(2)',
@@ -3473,30 +3492,7 @@ const other = [
     url: require('../img/otherImg/AI比比东(124).jpg'),
     name: 'AI比比东(124)',
   },
-  {
-    url: require('../img/otherImg/AI比比东(125).jpg'),
-    name: 'AI比比东(125)',
-  },
-  {
-    url: require('../img/otherImg/AI比比东(126).jpg'),
-    name: 'AI比比东(126)',
-  },
-  {
-    url: require('../img/otherImg/AI比比东(127).jpg'),
-    name: 'AI比比东(127)',
-  },
-  {
-    url: require('../img/otherImg/AI比比东(128).jpg'),
-    name: 'AI比比东(128)',
-  },
-  {
-    url: require('../img/otherImg/AI比比东(129).jpg'),
-    name: 'AI比比东(129)',
-  },
-  {
-    url: require('../img/otherImg/AI比比东(130).jpg'),
-    name: 'AI比比东(130)',
-  },
+
   {
     url: require('../img/otherImg/AI比比东.jpg'),
     name: 'AI比比东',
@@ -4313,38 +4309,36 @@ const other = [
     url: require('../img/otherImg/AI曹颖(204).jpg'),
     name: 'AI曹颖(204)',
   },
-  {
-    url: require('../img/otherImg/AI曹颖(205).jpg'),
-    name: 'AI曹颖(205)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(206).jpg'),
-    name: 'AI曹颖(206)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(207).jpg'),
-    name: 'AI曹颖(207)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(208).jpg'),
-    name: 'AI曹颖(208)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(209).jpg'),
-    name: 'AI曹颖(209)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(210).jpg'),
-    name: 'AI曹颖(210)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(211).jpg'),
-    name: 'AI曹颖(211)',
-  },
-  {
-    url: require('../img/otherImg/AI曹颖(212).jpg'),
-    name: 'AI曹颖(212)',
-  },
+
+
+  // {
+  //   url: require('../img/otherImg/AI曹颖(206).jpg'),
+  //   name: 'AI曹颖(206)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(207).jpg'),
+  //   name: 'AI曹颖(207)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(208).jpg'),
+  //   name: 'AI曹颖(208)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(209).jpg'),
+  //   name: 'AI曹颖(209)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(210).jpg'),
+  //   name: 'AI曹颖(210)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(211).jpg'),
+  //   name: 'AI曹颖(211)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI曹颖(212).jpg'),
+  //   name: 'AI曹颖(212)',
+  // },
   // {
   //   url: require('../img/otherImg/AI曹颖(213).jpg'),
   //   name: 'AI曹颖(213)',
@@ -5475,26 +5469,7 @@ const other = [
     url: require('../img/otherImg/AI韩月.jpg'),
     name: 'AI韩月',
   },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (287).jpg'),
-    name: 'AI陆雪琪 (287)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (288).jpg'),
-    name: 'AI陆雪琪 (288)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (289).jpg'),
-    name: 'AI陆雪琪 (289)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (290).jpg'),
-    name: 'AI陆雪琪 (290)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (291).jpg'),
-    name: 'AI陆雪琪 (291)',
-  },
+
 
   {
     url: require('../img/otherImg/AI陆雪琪 (2).jpg'),
@@ -6560,82 +6535,7 @@ const other = [
     url: require('../img/otherImg/AI陆雪琪 (267).jpg'),
     name: 'AI陆雪琪 (267)',
   },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (268).jpg'),
-    name: 'AI陆雪琪 (268)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (269).jpg'),
-    name: 'AI陆雪琪 (269)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (270).jpg'),
-    name: 'AI陆雪琪 (270)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (271).jpg'),
-    name: 'AI陆雪琪 (271)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (272).jpg'),
-    name: 'AI陆雪琪 (272)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (273).jpg'),
-    name: 'AI陆雪琪 (273)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (274).jpg'),
-    name: 'AI陆雪琪 (274)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (275).jpg'),
-    name: 'AI陆雪琪 (275)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (276).jpg'),
-    name: 'AI陆雪琪 (276)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (277).jpg'),
-    name: 'AI陆雪琪 (277)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (278).jpg'),
-    name: 'AI陆雪琪 (278)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (279).jpg'),
-    name: 'AI陆雪琪 (279)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (280).jpg'),
-    name: 'AI陆雪琪 (280)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (281).jpg'),
-    name: 'AI陆雪琪 (281)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (282).jpg'),
-    name: 'AI陆雪琪 (282)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (283).jpg'),
-    name: 'AI陆雪琪 (283)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (284).jpg'),
-    name: 'AI陆雪琪 (284)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (285).jpg'),
-    name: 'AI陆雪琪 (285)',
-  },
-  {
-    url: require('../img/otherImg/AI陆雪琪 (286).jpg'),
-    name: 'AI陆雪琪 (286)',
-  },
+
   {
     url: require('../img/otherImg/AI陆雪琪.jpg'),
     name: 'AI陆雪琪',
@@ -10152,110 +10052,110 @@ const other = [
     url: require('../img/otherImg/AI萧薰儿(256).jpg'),
     name: 'AI萧薰儿(256)',
   },
-  {
-    url: require('../img/otherImg/AI萧薰儿(257).jpg'),
-    name: 'AI萧薰儿(257)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(258).jpg'),
-    name: 'AI萧薰儿(258)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(259).jpg'),
-    name: 'AI萧薰儿(259)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(260).jpg'),
-    name: 'AI萧薰儿(260)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(261).jpg'),
-    name: 'AI萧薰儿(261)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(262).jpg'),
-    name: 'AI萧薰儿(262)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(263).jpg'),
-    name: 'AI萧薰儿(263)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(264).jpg'),
-    name: 'AI萧薰儿(264)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(265).jpg'),
-    name: 'AI萧薰儿(265)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(266).jpg'),
-    name: 'AI萧薰儿(266)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(267).jpg'),
-    name: 'AI萧薰儿(267)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(268).jpg'),
-    name: 'AI萧薰儿(268)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(269).jpg'),
-    name: 'AI萧薰儿(269)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(270).jpg'),
-    name: 'AI萧薰儿(270)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(271).jpg'),
-    name: 'AI萧薰儿(271)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(272).jpg'),
-    name: 'AI萧薰儿(272)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(273).jpg'),
-    name: 'AI萧薰儿(273)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(274).jpg'),
-    name: 'AI萧薰儿(274)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(275).jpg'),
-    name: 'AI萧薰儿(275)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(276).jpg'),
-    name: 'AI萧薰儿(276)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(277).jpg'),
-    name: 'AI萧薰儿(277)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(278).jpg'),
-    name: 'AI萧薰儿(278)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(279).jpg'),
-    name: 'AI萧薰儿(279)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(280).jpg'),
-    name: 'AI萧薰儿(280)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(281).jpg'),
-    name: 'AI萧薰儿(281)',
-  },
-  {
-    url: require('../img/otherImg/AI萧薰儿(282).jpg'),
-    name: 'AI萧薰儿(282)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(257).jpg'),
+  //   name: 'AI萧薰儿(257)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(258).jpg'),
+  //   name: 'AI萧薰儿(258)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(259).jpg'),
+  //   name: 'AI萧薰儿(259)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(260).jpg'),
+  //   name: 'AI萧薰儿(260)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(261).jpg'),
+  //   name: 'AI萧薰儿(261)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(262).jpg'),
+  //   name: 'AI萧薰儿(262)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(263).jpg'),
+  //   name: 'AI萧薰儿(263)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(264).jpg'),
+  //   name: 'AI萧薰儿(264)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(265).jpg'),
+  //   name: 'AI萧薰儿(265)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(266).jpg'),
+  //   name: 'AI萧薰儿(266)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(267).jpg'),
+  //   name: 'AI萧薰儿(267)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(268).jpg'),
+  //   name: 'AI萧薰儿(268)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(269).jpg'),
+  //   name: 'AI萧薰儿(269)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(270).jpg'),
+  //   name: 'AI萧薰儿(270)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(271).jpg'),
+  //   name: 'AI萧薰儿(271)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(272).jpg'),
+  //   name: 'AI萧薰儿(272)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(273).jpg'),
+  //   name: 'AI萧薰儿(273)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(274).jpg'),
+  //   name: 'AI萧薰儿(274)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(275).jpg'),
+  //   name: 'AI萧薰儿(275)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(276).jpg'),
+  //   name: 'AI萧薰儿(276)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(277).jpg'),
+  //   name: 'AI萧薰儿(277)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(278).jpg'),
+  //   name: 'AI萧薰儿(278)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(279).jpg'),
+  //   name: 'AI萧薰儿(279)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(280).jpg'),
+  //   name: 'AI萧薰儿(280)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(281).jpg'),
+  //   name: 'AI萧薰儿(281)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI萧薰儿(282).jpg'),
+  //   name: 'AI萧薰儿(282)',
+  // },
 
   {
     url: require('../img/otherImg/AI萧薰儿.jpg'),
@@ -11008,47 +10908,6 @@ const other = [
 
 
 
-  {
-    url: require('../img/otherImg/AI小医仙(250).jpg'),
-    name: 'AI小医仙(250)',
-  },
-
-  {
-    url: require('../img/otherImg/AI小医仙(251).jpg'),
-    name: 'AI小医仙(251)',
-  },
-
-  {
-    url: require('../img/otherImg/AI小医仙(252).jpg'),
-    name: 'AI小医仙(252)',
-  },
-
-  {
-    url: require('../img/otherImg/AI小医仙(253).jpg'),
-    name: 'AI小医仙(253)',
-  },
-
-  {
-    url: require('../img/otherImg/AI小医仙(254).jpg'),
-    name: 'AI小医仙(254)',
-  },
-
-
-
-
-  {
-    url: require('../img/otherImg/AI小医仙(249).jpg'),
-    name: 'AI小医仙(249)',
-  },
-
-  {
-    url: require('../img/otherImg/AI小医仙(247).jpg'),
-    name: 'AI小医仙(247)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(248).jpg'),
-    name: 'AI小医仙(248)',
-  },
   {
     url: require('../img/otherImg/AI小医仙(2).jpg'),
     name: 'AI小医仙(2)',
@@ -11909,131 +11768,6 @@ const other = [
     url: require('../img/otherImg/AI小医仙(216).jpg'),
     name: 'AI小医仙(216)',
   },
-  {
-    url: require('../img/otherImg/AI小医仙(217).jpg'),
-    name: 'AI小医仙(217)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(218).jpg'),
-    name: 'AI小医仙(218)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(219).jpg'),
-    name: 'AI小医仙(219)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(220).jpg'),
-    name: 'AI小医仙(220)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(221).jpg'),
-    name: 'AI小医仙(221)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(222).jpg'),
-    name: 'AI小医仙(222)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(223).jpg'),
-    name: 'AI小医仙(223)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(224).jpg'),
-    name: 'AI小医仙(224)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(225).jpg'),
-    name: 'AI小医仙(225)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(226).jpg'),
-    name: 'AI小医仙(226)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(227).jpg'),
-    name: 'AI小医仙(227)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(228).jpg'),
-    name: 'AI小医仙(228)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(229).jpg'),
-    name: 'AI小医仙(229)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(230).jpg'),
-    name: 'AI小医仙(230)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(231).jpg'),
-    name: 'AI小医仙(231)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(232).jpg'),
-    name: 'AI小医仙(232)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(233).jpg'),
-    name: 'AI小医仙(233)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(234).jpg'),
-    name: 'AI小医仙(234)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(235).jpg'),
-    name: 'AI小医仙(235)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(236).jpg'),
-    name: 'AI小医仙(236)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(237).jpg'),
-    name: 'AI小医仙(237)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(238).jpg'),
-    name: 'AI小医仙(238)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(239).jpg'),
-    name: 'AI小医仙(239)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(240).jpg'),
-    name: 'AI小医仙(240)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(241).jpg'),
-    name: 'AI小医仙(241)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(242).jpg'),
-    name: 'AI小医仙(242)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(243).jpg'),
-    name: 'AI小医仙(243)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(244).jpg'),
-    name: 'AI小医仙(244)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(245).jpg'),
-    name: 'AI小医仙(245)',
-  },
-  {
-    url: require('../img/otherImg/AI小医仙(246).jpg'),
-    name: 'AI小医仙(246)',
-  },
-
-  {
-    url: require('../img/otherImg/AI小医仙.jpg'),
-    name: 'AI小医仙',
-  },
 
 
 
@@ -12073,7 +11807,61 @@ const other = [
     url: require('../img/otherImg/AI玄衣(286).jpg'),
     name: 'AI玄衣(286)',
   },
+  {
+    url: require('../img/otherImg/AI玄衣(286).jpg'),
+    name: 'AI玄衣(286)',
+  },
 
+  {
+    url: require('../img/otherImg/AI玄衣(286).jpg'),
+    name: 'AI玄衣(286)',
+  },
+
+  {
+    url: require('../img/otherImg/AI玄衣(287).jpg'),
+    name: 'AI玄衣(287)',
+  },
+
+  {
+    url: require('../img/otherImg/AI玄衣(288).jpg'),
+    name: 'AI玄衣(288)',
+  },
+
+  {
+    url: require('../img/otherImg/AI玄衣(289).jpg'),
+    name: 'AI玄衣(289)',
+  },
+
+  {
+    url: require('../img/otherImg/AI玄衣(290).jpg'),
+    name: 'AI玄衣(290)',
+  },
+
+  {
+    url: require('../img/otherImg/AI玄衣(291).jpg'),
+    name: 'AI玄衣(291)',
+  },
+
+  {
+    url: require('../img/otherImg/AI玄衣(292).jpg'),
+    name: 'AI玄衣(292)',
+  },
+  {
+    url: require('../img/otherImg/AI玄衣(293).jpg'),
+    name: 'AI玄衣(293)',
+  },
+  {
+    url: require('../img/otherImg/AI玄衣(294).jpg'),
+    name: 'AI玄衣(294)',
+  },
+  {
+    url: require('../img/otherImg/AI玄衣(295).jpg'),
+    name: 'AI玄衣(295)',
+  },
+  {
+    url: require('../img/otherImg/AI玄衣(296).jpg'),
+    name: 'AI玄衣(296)',
+  },
 
   {
     url: require('../img/otherImg/AI玄衣(2).jpg'),
@@ -13184,10 +12972,10 @@ const other = [
     url: require('../img/otherImg/AI玄衣.jpg'),
     name: 'AI玄衣',
   },
-  {
-    url: require('../img/otherImg/AI雅妃(278).jpg'),
-    name: 'AI雅妃(278)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI雅妃(278).jpg'),
+  //   name: 'AI雅妃(278)',
+  // },
   {
     url: require('../img/otherImg/AI雅妃(2).jpg'),
     name: 'AI雅妃(2)',
@@ -14244,54 +14032,7 @@ const other = [
     url: require('../img/otherImg/AI雅妃(265).jpg'),
     name: 'AI雅妃(265)',
   },
-  {
-    url: require('../img/otherImg/AI雅妃(266).jpg'),
-    name: 'AI雅妃(266)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(267).jpg'),
-    name: 'AI雅妃(267)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(268).jpg'),
-    name: 'AI雅妃(268)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(269).jpg'),
-    name: 'AI雅妃(269)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(270).jpg'),
-    name: 'AI雅妃(270)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(271).jpg'),
-    name: 'AI雅妃(271)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(272).jpg'),
-    name: 'AI雅妃(272)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(273).jpg'),
-    name: 'AI雅妃(273)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(274).jpg'),
-    name: 'AI雅妃(274)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(275).jpg'),
-    name: 'AI雅妃(275)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(276).jpg'),
-    name: 'AI雅妃(276)',
-  },
-  {
-    url: require('../img/otherImg/AI雅妃(277).jpg'),
-    name: 'AI雅妃(277)',
-  },
+
   {
     url: require('../img/otherImg/AI雅妃.jpg'),
     name: 'AI雅妃',
@@ -14301,6 +14042,102 @@ const other = [
 
 
 
+  {
+    url: require('../img/otherImg/AI云霄(255).jpg'),
+    name: 'AI云霄(255)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(256).jpg'),
+    name: 'AI云霄(256)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(257).jpg'),
+    name: 'AI云霄(257)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(258).jpg'),
+    name: 'AI云霄(258)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(259).jpg'),
+    name: 'AI云霄(259)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(260).jpg'),
+    name: 'AI云霄(260)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(261).jpg'),
+    name: 'AI云霄(261)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(262).jpg'),
+    name: 'AI云霄(262)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(263).jpg'),
+    name: 'AI云霄(263)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(264).jpg'),
+    name: 'AI云霄(264)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(265).jpg'),
+    name: 'AI云霄(265)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(266).jpg'),
+    name: 'AI云霄(266)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(267).jpg'),
+    name: 'AI云霄(267)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(268).jpg'),
+    name: 'AI云霄(268)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(269).jpg'),
+    name: 'AI云霄(269)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(270).jpg'),
+    name: 'AI云霄(270)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(271).jpg'),
+    name: 'AI云霄(271)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(272).jpg'),
+    name: 'AI云霄(272)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(273).jpg'),
+    name: 'AI云霄(273)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(274).jpg'),
+    name: 'AI云霄(274)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(275).jpg'),
+    name: 'AI云霄(275)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(276).jpg'),
+    name: 'AI云霄(276)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(277).jpg'),
+    name: 'AI云霄(277)',
+  },
+  {
+    url: require('../img/otherImg/AI云霄(278).jpg'),
+    name: 'AI云霄(278)',
+  },
 
   {
     url: require('../img/otherImg/AI云霄(254).jpg'),
@@ -18903,6 +18740,654 @@ const other = [
     url: require('../img/otherImg/AI云曦 (257).jpg'),
     name: 'AI云曦 (257)',
   },
+  {
+    url: require('../img/otherImg/AI小舞.jpg'),
+    name: 'AI小舞',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(2).jpg'),
+    name: 'AI小舞(2)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(3).jpg'),
+    name: 'AI小舞(3)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(4).jpg'),
+    name: 'AI小舞(4)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(5).jpg'),
+    name: 'AI小舞(5)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(6).jpg'),
+    name: 'AI小舞(6)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(7).jpg'),
+    name: 'AI小舞(7)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(8).jpg'),
+    name: 'AI小舞(8)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(9).jpg'),
+    name: 'AI小舞(9)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(10).jpg'),
+    name: 'AI小舞(10)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(11).jpg'),
+    name: 'AI小舞(11)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(12).jpg'),
+    name: 'AI小舞(12)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(13).jpg'),
+    name: 'AI小舞(13)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(14).jpg'),
+    name: 'AI小舞(14)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(15).jpg'),
+    name: 'AI小舞(15)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(16).jpg'),
+    name: 'AI小舞(16)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(17).jpg'),
+    name: 'AI小舞(17)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(18).jpg'),
+    name: 'AI小舞(18)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(19).jpg'),
+    name: 'AI小舞(19)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(20).jpg'),
+    name: 'AI小舞(20)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(21).jpg'),
+    name: 'AI小舞(21)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(22).jpg'),
+    name: 'AI小舞(22)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(23).jpg'),
+    name: 'AI小舞(23)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(24).jpg'),
+    name: 'AI小舞(24)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(25).jpg'),
+    name: 'AI小舞(25)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(26).jpg'),
+    name: 'AI小舞(26)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(27).jpg'),
+    name: 'AI小舞(27)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(28).jpg'),
+    name: 'AI小舞(28)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(29).jpg'),
+    name: 'AI小舞(29)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(30).jpg'),
+    name: 'AI小舞(30)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(31).jpg'),
+    name: 'AI小舞(31)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(32).jpg'),
+    name: 'AI小舞(32)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(33).jpg'),
+    name: 'AI小舞(33)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(34).jpg'),
+    name: 'AI小舞(34)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(35).jpg'),
+    name: 'AI小舞(35)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(36).jpg'),
+    name: 'AI小舞(36)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(37).jpg'),
+    name: 'AI小舞(37)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(38).jpg'),
+    name: 'AI小舞(38)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(39).jpg'),
+    name: 'AI小舞(39)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(40).jpg'),
+    name: 'AI小舞(40)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(41).jpg'),
+    name: 'AI小舞(41)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(42).jpg'),
+    name: 'AI小舞(42)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(43).jpg'),
+    name: 'AI小舞(43)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(44).jpg'),
+    name: 'AI小舞(44)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(45).jpg'),
+    name: 'AI小舞(45)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(46).jpg'),
+    name: 'AI小舞(46)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(47).jpg'),
+    name: 'AI小舞(47)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(48).jpg'),
+    name: 'AI小舞(48)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(49).jpg'),
+    name: 'AI小舞(49)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(50).jpg'),
+    name: 'AI小舞(50)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(51).jpg'),
+    name: 'AI小舞(51)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(52).jpg'),
+    name: 'AI小舞(52)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(53).jpg'),
+    name: 'AI小舞(53)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(54).jpg'),
+    name: 'AI小舞(54)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(55).jpg'),
+    name: 'AI小舞(55)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(56).jpg'),
+    name: 'AI小舞(56)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(57).jpg'),
+    name: 'AI小舞(57)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(58).jpg'),
+    name: 'AI小舞(58)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(59).jpg'),
+    name: 'AI小舞(59)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(60).jpg'),
+    name: 'AI小舞(60)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(61).jpg'),
+    name: 'AI小舞(61)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(62).jpg'),
+    name: 'AI小舞(62)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(63).jpg'),
+    name: 'AI小舞(63)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(64).jpg'),
+    name: 'AI小舞(64)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(65).jpg'),
+    name: 'AI小舞(65)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(66).jpg'),
+    name: 'AI小舞(66)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(67).jpg'),
+    name: 'AI小舞(67)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(68).jpg'),
+    name: 'AI小舞(68)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(69).jpg'),
+    name: 'AI小舞(69)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(70).jpg'),
+    name: 'AI小舞(70)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(71).jpg'),
+    name: 'AI小舞(71)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(72).jpg'),
+    name: 'AI小舞(72)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(73).jpg'),
+    name: 'AI小舞(73)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(74).jpg'),
+    name: 'AI小舞(74)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(75).jpg'),
+    name: 'AI小舞(75)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(76).jpg'),
+    name: 'AI小舞(76)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(77).jpg'),
+    name: 'AI小舞(77)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(78).jpg'),
+    name: 'AI小舞(78)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(79).jpg'),
+    name: 'AI小舞(79)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(80).jpg'),
+    name: 'AI小舞(80)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(81).jpg'),
+    name: 'AI小舞(81)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(82).jpg'),
+    name: 'AI小舞(82)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(83).jpg'),
+    name: 'AI小舞(83)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(84).jpg'),
+    name: 'AI小舞(84)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(85).jpg'),
+    name: 'AI小舞(85)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(86).jpg'),
+    name: 'AI小舞(86)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(87).jpg'),
+    name: 'AI小舞(87)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(88).jpg'),
+    name: 'AI小舞(88)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(89).jpg'),
+    name: 'AI小舞(89)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(90).jpg'),
+    name: 'AI小舞(90)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(91).jpg'),
+    name: 'AI小舞(91)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(92).jpg'),
+    name: 'AI小舞(92)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(93).jpg'),
+    name: 'AI小舞(93)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(94).jpg'),
+    name: 'AI小舞(94)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(95).jpg'),
+    name: 'AI小舞(95)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(96).jpg'),
+    name: 'AI小舞(96)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(97).jpg'),
+    name: 'AI小舞(97)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(98).jpg'),
+    name: 'AI小舞(98)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(99).jpg'),
+    name: 'AI小舞(99)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(100).jpg'),
+    name: 'AI小舞(100)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(101).jpg'),
+    name: 'AI小舞(101)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(102).jpg'),
+    name: 'AI小舞(102)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(103).jpg'),
+    name: 'AI小舞(103)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(104).jpg'),
+    name: 'AI小舞(104)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(105).jpg'),
+    name: 'AI小舞(105)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(106).jpg'),
+    name: 'AI小舞(106)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(107).jpg'),
+    name: 'AI小舞(107)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(108).jpg'),
+    name: 'AI小舞(108)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(109).jpg'),
+    name: 'AI小舞(109)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(110).jpg'),
+    name: 'AI小舞(110)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(111).jpg'),
+    name: 'AI小舞(111)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(112).jpg'),
+    name: 'AI小舞(112)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(113).jpg'),
+    name: 'AI小舞(113)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(114).jpg'),
+    name: 'AI小舞(114)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(115).jpg'),
+    name: 'AI小舞(115)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(116).jpg'),
+    name: 'AI小舞(116)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(117).jpg'),
+    name: 'AI小舞(117)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(118).jpg'),
+    name: 'AI小舞(118)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(119).jpg'),
+    name: 'AI小舞(119)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(120).jpg'),
+    name: 'AI小舞(120)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(121).jpg'),
+    name: 'AI小舞(121)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(122).jpg'),
+    name: 'AI小舞(122)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(123).jpg'),
+    name: 'AI小舞(123)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(124).jpg'),
+    name: 'AI小舞(124)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(125).jpg'),
+    name: 'AI小舞(125)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(126).jpg'),
+    name: 'AI小舞(126)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(127).jpg'),
+    name: 'AI小舞(127)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(128).jpg'),
+    name: 'AI小舞(128)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(129).jpg'),
+    name: 'AI小舞(129)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(130).jpg'),
+    name: 'AI小舞(130)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(131).jpg'),
+    name: 'AI小舞(131)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(132).jpg'),
+    name: 'AI小舞(132)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(133).jpg'),
+    name: 'AI小舞(133)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(134).jpg'),
+    name: 'AI小舞(134)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(135).jpg'),
+    name: 'AI小舞(135)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(136).jpg'),
+    name: 'AI小舞(136)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(137).jpg'),
+    name: 'AI小舞(137)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(138).jpg'),
+    name: 'AI小舞(138)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(139).jpg'),
+    name: 'AI小舞(139)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(140).jpg'),
+    name: 'AI小舞(140)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(141).jpg'),
+    name: 'AI小舞(141)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(142).jpg'),
+    name: 'AI小舞(142)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(143).jpg'),
+    name: 'AI小舞(143)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(144).jpg'),
+    name: 'AI小舞(144)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(145).jpg'),
+    name: 'AI小舞(145)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(146).jpg'),
+    name: 'AI小舞(146)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(147).jpg'),
+    name: 'AI小舞(147)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(148).jpg'),
+    name: 'AI小舞(148)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(149).jpg'),
+    name: 'AI小舞(149)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(150).jpg'),
+    name: 'AI小舞(150)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(151).jpg'),
+    name: 'AI小舞(151)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(152).jpg'),
+    name: 'AI小舞(152)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(153).jpg'),
+    name: 'AI小舞(153)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(154).jpg'),
+    name: 'AI小舞(154)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(155).jpg'),
+    name: 'AI小舞(155)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(156).jpg'),
+    name: 'AI小舞(156)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(157).jpg'),
+    name: 'AI小舞(157)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(158).jpg'),
+    name: 'AI小舞(158)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(159).jpg'),
+    name: 'AI小舞(159)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(160).jpg'),
+    name: 'AI小舞(160)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(161).jpg'),
+    name: 'AI小舞(161)',
+  },
+  {
+    url: require('../img/otherImg/AI小舞(162).jpg'),
+    name: 'AI小舞(162)',
+  },
 
 
 ];
@@ -19345,6 +19830,27 @@ const allPics = [
   {
     url: require('../img/mainIng/AI彦(615).jpg'),
     name: 'AI彦(615)',
+  },
+
+  {
+    url: require('../img/mainIng/AI彦(616).jpg'),
+    name: 'AI彦(616)',
+  },
+  {
+    url: require('../img/mainIng/AI彦(617).jpg'),
+    name: 'AI彦(617)',
+  },
+  {
+    url: require('../img/mainIng/AI彦(618).jpg'),
+    name: 'AI彦(618)',
+  },
+  {
+    url: require('../img/mainIng/AI彦(619).jpg'),
+    name: 'AI彦(619)',
+  },
+  {
+    url: require('../img/mainIng/AI彦(620).jpg'),
+    name: 'AI彦(620)',
   },
 
   {
