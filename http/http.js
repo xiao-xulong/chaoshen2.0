@@ -27,17 +27,130 @@ const other = [
     name: 'AI美杜莎(999)',
   },
   {
-    url: require('../img/otherImg/AI美杜莎(294).jpg'),
-    name: 'AI美杜莎(294)',
+    url: require('../img/otherImg/AI美杜莎(308).jpg'),
+    name: 'AI美杜莎(308)',
   },
   {
-    url: require('../img/otherImg/AI美杜莎(295).jpg'),
-    name: 'AI美杜莎(295)',
+    url: require('../img/otherImg/AI美杜莎(309).jpg'),
+    name: 'AI美杜莎(309)',
   },
   {
-    url: require('../img/otherImg/AI美杜莎(296).jpg'),
-    name: 'AI美杜莎(296)',
+    url: require('../img/otherImg/AI美杜莎(310).jpg'),
+    name: 'AI美杜莎(310)',
   },
+  {
+    url: require('../img/otherImg/AI美杜莎(311).jpg'),
+    name: 'AI美杜莎(311)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(312).jpg'),
+    name: 'AI美杜莎(312)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(313).jpg'),
+    name: 'AI美杜莎(313)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(314).jpg'),
+    name: 'AI美杜莎(314)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(315).jpg'),
+    name: 'AI美杜莎(315)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(316).jpg'),
+    name: 'AI美杜莎(316)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(317).jpg'),
+    name: 'AI美杜莎(317)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(318).jpg'),
+    name: 'AI美杜莎(318)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(319).jpg'),
+    name: 'AI美杜莎(319)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(320).jpg'),
+    name: 'AI美杜莎(320)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(321).jpg'),
+    name: 'AI美杜莎(321)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(322).jpg'),
+    name: 'AI美杜莎(322)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(323).jpg'),
+    name: 'AI美杜莎(323)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(324).jpg'),
+    name: 'AI美杜莎(324)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(325).jpg'),
+    name: 'AI美杜莎(325)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(326).jpg'),
+    name: 'AI美杜莎(326)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(327).jpg'),
+    name: 'AI美杜莎(327)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(328).jpg'),
+    name: 'AI美杜莎(328)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(329).jpg'),
+    name: 'AI美杜莎(329)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(330).jpg'),
+    name: 'AI美杜莎(330)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(331).jpg'),
+    name: 'AI美杜莎(331)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(332).jpg'),
+    name: 'AI美杜莎(332)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(333).jpg'),
+    name: 'AI美杜莎(333)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(334).jpg'),
+    name: 'AI美杜莎(334)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(335).jpg'),
+    name: 'AI美杜莎(335)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(336).jpg'),
+    name: 'AI美杜莎(336)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(337).jpg'),
+    name: 'AI美杜莎(337)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(338).jpg'),
+    name: 'AI美杜莎(338)',
+  },
+
 
   {
     url: require('../img/otherImg/AI美杜莎(291).jpg'),
@@ -51,7 +164,18 @@ const other = [
     url: require('../img/otherImg/AI美杜莎(293).jpg'),
     name: 'AI美杜莎(293)',
   },
-
+  {
+    url: require('../img/otherImg/AI美杜莎(294).jpg'),
+    name: 'AI美杜莎(294)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(295).jpg'),
+    name: 'AI美杜莎(295)',
+  },
+  {
+    url: require('../img/otherImg/AI美杜莎(296).jpg'),
+    name: 'AI美杜莎(296)',
+  },
   {
     url: require('../img/otherImg/AI美杜莎(297).jpg'),
     name: 'AI美杜莎(297)',
