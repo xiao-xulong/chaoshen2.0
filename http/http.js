@@ -152,75 +152,75 @@ const other = [
   // },
 
 
-  {
-    url: require('../img/otherImg/AI美杜莎(291).jpg'),
-    name: 'AI美杜莎(291)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(292).jpg'),
-    name: 'AI美杜莎(292)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(293).jpg'),
-    name: 'AI美杜莎(293)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(294).jpg'),
-    name: 'AI美杜莎(294)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(295).jpg'),
-    name: 'AI美杜莎(295)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(296).jpg'),
-    name: 'AI美杜莎(296)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(297).jpg'),
-    name: 'AI美杜莎(297)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(298).jpg'),
-    name: 'AI美杜莎(298)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(299).jpg'),
-    name: 'AI美杜莎(299)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(300).jpg'),
-    name: 'AI美杜莎(300)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(301).jpg'),
-    name: 'AI美杜莎(301)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(302).jpg'),
-    name: 'AI美杜莎(302)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(303).jpg'),
-    name: 'AI美杜莎(303)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(291).jpg'),
+  //   name: 'AI美杜莎(291)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(292).jpg'),
+  //   name: 'AI美杜莎(292)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(293).jpg'),
+  //   name: 'AI美杜莎(293)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(294).jpg'),
+  //   name: 'AI美杜莎(294)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(295).jpg'),
+  //   name: 'AI美杜莎(295)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(296).jpg'),
+  //   name: 'AI美杜莎(296)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(297).jpg'),
+  //   name: 'AI美杜莎(297)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(298).jpg'),
+  //   name: 'AI美杜莎(298)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(299).jpg'),
+  //   name: 'AI美杜莎(299)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(300).jpg'),
+  //   name: 'AI美杜莎(300)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(301).jpg'),
+  //   name: 'AI美杜莎(301)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(302).jpg'),
+  //   name: 'AI美杜莎(302)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(303).jpg'),
+  //   name: 'AI美杜莎(303)',
+  // },
 
-  {
-    url: require('../img/otherImg/AI美杜莎(304).jpg'),
-    name: 'AI美杜莎(304)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(305).jpg'),
-    name: 'AI美杜莎(305)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(306).jpg'),
-    name: 'AI美杜莎(306)',
-  },
-  {
-    url: require('../img/otherImg/AI美杜莎(307).jpg'),
-    name: 'AI美杜莎(307)',
-  },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(304).jpg'),
+  //   name: 'AI美杜莎(304)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(305).jpg'),
+  //   name: 'AI美杜莎(305)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(306).jpg'),
+  //   name: 'AI美杜莎(306)',
+  // },
+  // {
+  //   url: require('../img/otherImg/AI美杜莎(307).jpg'),
+  //   name: 'AI美杜莎(307)',
+  // },
 
 
   {
