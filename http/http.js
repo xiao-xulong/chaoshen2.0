@@ -20865,28 +20865,107 @@ const other = [
     url: require('../img/otherImg/AI青鳞(37).jpg'),
     name: 'AI青鳞(37)',
   },
+  {
+    url: require('../img/otherImg/AI宋嫣.jpg'),
+    name: 'AI宋嫣',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(2).jpg'),
+    name: 'AI宋嫣(2)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(3).jpg'),
+    name: 'AI宋嫣(3)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(4).jpg'),
+    name: 'AI宋嫣(4)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(5).jpg'),
+    name: 'AI宋嫣(5)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(6).jpg'),
+    name: 'AI宋嫣(6)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(7).jpg'),
+    name: 'AI宋嫣(7)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(8).jpg'),
+    name: 'AI宋嫣(8)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(9).jpg'),
+    name: 'AI宋嫣(9)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(10).jpg'),
+    name: 'AI宋嫣(10)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(11).jpg'),
+    name: 'AI宋嫣(11)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(12).jpg'),
+    name: 'AI宋嫣(12)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(13).jpg'),
+    name: 'AI宋嫣(13)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(14).jpg'),
+    name: 'AI宋嫣(14)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(15).jpg'),
+    name: 'AI宋嫣(15)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(16).jpg'),
+    name: 'AI宋嫣(16)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(17).jpg'),
+    name: 'AI宋嫣(17)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(18).jpg'),
+    name: 'AI宋嫣(18)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(19).jpg'),
+    name: 'AI宋嫣(19)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(20).jpg'),
+    name: 'AI宋嫣(20)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(21).jpg'),
+    name: 'AI宋嫣(21)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(22).jpg'),
+    name: 'AI宋嫣(22)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(23).jpg'),
+    name: 'AI宋嫣(23)',
+  },
+  {
+    url: require('../img/otherImg/AI宋嫣(24).jpg'),
+    name: 'AI宋嫣(24)',
+  },
 
 
 ];
 
-// const sharePics = [
-//   {
-//     url: "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-bdbeaf13-95b3-48c4-a13b-687691a23e5f/79153330-91de-433a-84ac-caac32a016e1.jpg",
-//     name: "鹤熙露肩装",
-//   },
-//   {
-//     url: "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-bdbeaf13-95b3-48c4-a13b-687691a23e5f/93cb50c8-d654-434f-a896-3c8346a4d2d4.jpg",
-//     name: "琪琳回眸",
-//   },
-//   {
-//     url: "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-bdbeaf13-95b3-48c4-a13b-687691a23e5f/61cd45bb-dcd7-44c2-9461-78e0d30219e0.jpg",
-//     name: "鹤熙旗袍",
-//   },
-//   {
-//     url: "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-bdbeaf13-95b3-48c4-a13b-687691a23e5f/818c3fd4-9838-4c72-8027-aa9eb6a5fa75.jpg",
-//     name: "鹤熙正脸",
-//   },
-// ];
+
 
 // const QPics = [
 //   // { url: '', name: '' },
