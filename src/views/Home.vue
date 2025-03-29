@@ -16,10 +16,13 @@
       <h2>雄兵连</h2>
       <h5>GAME CHARACTER</h5>
     </article>
+   
     <!--      <input id="range" type="range" :value="videoCurrentTime" :max="videoTimeWidth" @input="vc">-->
     <!--      <button @click="fullScreen">123</button>-->
     <div class="video">
       <div v-if="!videoPlayState" class="icon" @click="play"></div>
+
+      
       <video
         poster="../assets/post.jpg"
         id="v"
@@ -27,7 +30,8 @@
         @timeupdate="timeU"
         @canplay="timeW"
       >
-        <source src="../../video/home.mp4" type="video/mp4" />
+      <!-- ../../video/home.mp4-->
+        <source src="http://stk32g12h.hn-bkt.clouddn.com/video/home.mp4" type="video/mp4" />
         您的浏览器不支持 mp4文件。
       </video>
     </div>
@@ -65,11 +69,14 @@ export default {
     const router = useRouter();
     let { proxy } = getCurrentInstance();
     let backPics = ref(examplePics);
-    // const images = [s1, s2, s3]
     const images = [
-      require("../../img/swiper1.4f9f0e27.jpg"),
-      require("../../img/swiper2.34fad73b.jpg"),
-      require("../../img/swiper3.7e5a0168.jpg")
+"http://stk32g12h.hn-bkt.clouddn.com/img/swiper1.4f9f0e27.jpg",
+"http://stk32g12h.hn-bkt.clouddn.com/img/swiper2.34fad73b.jpg",
+"http://stk32g12h.hn-bkt.clouddn.com/img/swiper3.7e5a0168.jpg"
+    
+      // require("../../img/swiper1.4f9f0e27.jpg"),
+      // require("../../img/swiper2.34fad73b.jpg"),
+      // require("../../img/swiper3.7e5a0168.jpg")
     ];
 
     let videoPlayState = ref(false);

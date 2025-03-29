@@ -18,20 +18,34 @@ import { actp } from "../../http/http";
 import pageTop from '../components/pageTop'
 const { proxy } = getCurrentInstance()
 const activePics = ref([
-{ videoAddress: require('../../video/彦云朵动态.mp4'), name: '彦云朵',post: require("../../img/彦云朵动态_poster.jpg") },
-{ videoAddress: require('../../video/彦叉腰动态.mp4'), name: '彦叉腰',post: require("../../img/彦叉腰动态_poster.jpg") },
-    { videoAddress: require('../../video/帅琪琳.mp4'), name: '帅琪琳',post: require("../../img/帅琪琳poster.jpg") },
-    { videoAddress: require('../../video/蔷薇机甲动态.mp4'), name: '蔷薇机甲动态',post:require("../../img/蔷薇机甲动态poster.jpg") },
-    { videoAddress: require('../../video/悟空动态.mp4'), name: '悟空动态',post:require("../../img/悟空动态poster.jpg") }
+// { videoAddress: require('../../video/彦云朵动态.mp4'), name: '彦云朵',post: require("../../img/彦云朵动态_poster.jpg") },
+// { videoAddress: require('../../video/彦叉腰动态.mp4'), name: '彦叉腰',post: require("../../img/彦叉腰动态_poster.jpg") },
+//     { videoAddress: require('../../video/帅琪琳.mp4'), name: '帅琪琳',post: require("../../img/帅琪琳poster.jpg") },
+//     { videoAddress: require('../../video/蔷薇机甲动态.mp4'), name: '蔷薇机甲动态',post:require("../../img/蔷薇机甲动态poster.jpg") },
+//     { videoAddress: require('../../video/悟空动态.mp4'), name: '悟空动态',post:require("../../img/悟空动态poster.jpg") }
+//     ,
+//     { videoAddress: require('../../video/蔷薇短发星命动态.mp4'), name: '蔷薇短发星命动态' ,post:require("../../img/蔷薇短发星命动态poster.jpg")}
+//     ,
+//     { videoAddress: require('../../video/鹤熙樱花唯美动态壁纸.mp4'), name: '鹤熙樱花唯美动态壁纸' ,post:require("../../img/鹤熙樱花唯美动态壁纸poster.jpg")},
+//     { videoAddress: require('../../video/凉薇展翼动态壁纸.mp4'), name: '凉薇展翼动态壁纸' ,post:require("../../img/凉薇展翼动态壁纸poster.jpg")},
+//     { videoAddress: require('../../video/凯莎动态.mp4'), name: '凯莎动态壁纸' ,post:require("../../img/凯莎动态poster.jpg")},
+//     { videoAddress: require('../../video/阿狸动态.mp4'), name: '阿狸动态壁纸' ,post:require("../../img/阿狸动态poster.jpg")},
+//     { videoAddress: require('../../video/凉薇牵手动态壁纸.mp4'), name: '凉薇牵手动态壁纸' ,post:require("../../img/凉薇牵手动态壁纸poster.jpg")},
+//     { videoAddress: require('../../video/凯莎持剑动态.mp4'), name: '凯莎持剑动态',post:require("../../img/凯莎持剑动态poster.jpg" )}
+{ videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/彦云朵动态.mp4', name: '彦云朵',post: require("../../img/彦云朵动态_poster.jpg") },
+{ videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/彦叉腰动态.mp4', name: '彦叉腰',post: require("../../img/彦叉腰动态_poster.jpg") },
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/帅琪琳.mp4', name: '帅琪琳',post: require("../../img/帅琪琳poster.jpg") },
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/蔷薇机甲动态.mp4', name: '蔷薇机甲动态',post:require("../../img/蔷薇机甲动态poster.jpg") },
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/悟空动态.mp4', name: '悟空动态',post:require("../../img/悟空动态poster.jpg") }
     ,
-    { videoAddress: require('../../video/蔷薇短发星命动态.mp4'), name: '蔷薇短发星命动态' ,post:require("../../img/蔷薇短发星命动态poster.jpg")}
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/蔷薇短发星命动态.mp4', name: '蔷薇短发星命动态' ,post:require("../../img/蔷薇短发星命动态poster.jpg")}
     ,
-    { videoAddress: require('../../video/鹤熙樱花唯美动态壁纸.mp4'), name: '鹤熙樱花唯美动态壁纸' ,post:require("../../img/鹤熙樱花唯美动态壁纸poster.jpg")},
-    { videoAddress: require('../../video/凉薇展翼动态壁纸.mp4'), name: '凉薇展翼动态壁纸' ,post:require("../../img/凉薇展翼动态壁纸poster.jpg")},
-    { videoAddress: require('../../video/凯莎动态.mp4'), name: '凯莎动态壁纸' ,post:require("../../img/凯莎动态poster.jpg")},
-    { videoAddress: require('../../video/阿狸动态.mp4'), name: '阿狸动态壁纸' ,post:require("../../img/阿狸动态poster.jpg")},
-    { videoAddress: require('../../video/凉薇牵手动态壁纸.mp4'), name: '凉薇牵手动态壁纸' ,post:require("../../img/凉薇牵手动态壁纸poster.jpg")},
-    { videoAddress: require('../../video/凯莎持剑动态.mp4'), name: '凯莎持剑动态',post:require("../../img/凯莎持剑动态poster.jpg" )}
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/鹤熙樱花唯美动态壁纸.mp4', name: '鹤熙樱花唯美动态壁纸' ,post:require("../../img/鹤熙樱花唯美动态壁纸poster.jpg")},
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/凉薇展翼动态壁纸.mp4', name: '凉薇展翼动态壁纸' ,post:require("../../img/凉薇展翼动态壁纸poster.jpg")},
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/凯莎动态.mp4', name: '凯莎动态壁纸' ,post:require("../../img/凯莎动态poster.jpg")},
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/阿狸动态.mp4', name: '阿狸动态壁纸' ,post:require("../../img/阿狸动态poster.jpg")},
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/凉薇牵手动态壁纸.mp4', name: '凉薇牵手动态壁纸' ,post:require("../../img/凉薇牵手动态壁纸poster.jpg")},
+    { videoAddress: 'https://mp-52043df6-fd5f-4439-8eeb-55d1eb4197e6.cdn.bspapp.com/凯莎持剑动态.mp4', name: '凯莎持剑动态',post:require("../../img/凯莎持剑动态poster.jpg" )}
 
 ])
 
