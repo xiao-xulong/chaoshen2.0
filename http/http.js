@@ -1,8 +1,8 @@
-http://angel-yan.top/mainom'
-// })
-// let shootreq = function () {
-//   return webget.get('/VKCEYUGU-bdbeaf13-95b3-48c4-a13b-687691a23e5f/28a4ec31-d5d5-4fc0-8f16-0f4fe23685b0.json')
-// }
+// http://angel-yan.top/mainom'
+// // })
+// // let shootreq = function () {
+// //   return webget.get('/VKCEYUGU-bdbeaf13-95b3-48c4-a13b-687691a23e5f/28a4ec31-d5d5-4fc0-8f16-0f4fe23685b0.json')
+// // }
 
 const examplePics = [
   {
@@ -20862,6 +20862,26 @@ const other = [
     url: require('../img/otherImg/AI青鳞(37).jpg'),
     name: 'AI青鳞(37)',
   },
+
+  {
+    url: require('../img/otherImg/AI青鳞(38).jpg'),
+    name: 'AI青鳞(38)',
+  },
+  {
+    url: require('../img/otherImg/AI青鳞(39).jpg'),
+    name: 'AI青鳞(39)',
+  },
+  {
+    url: require('../img/otherImg/AI青鳞(40).jpg'),
+    name: 'AI青鳞(40)',
+  },
+  {
+    url: require('../img/otherImg/AI青鳞(41).jpg'),
+    name: 'AI青鳞(41)',
+  },
+
+
+
   {
     url: require('../img/otherImg/AI宋嫣.jpg'),
     name: 'AI宋嫣',
