@@ -31,11 +31,11 @@
         @canplay="timeW"
       >
       <!-- ../../video/home.mp4-->
-        <source src="http://stk32g12h.hn-bkt.clouddn.com/video/home.mp4" type="video/mp4" />
+        <source src="http://angel-yan.top/video/home.mp4" type="video/mp4" />
         您的浏览器不支持 mp4文件。
       </video>
     </div>
-
+    
     <article>
       <h2>壁纸下载</h2>
       <h5>DOWNLOAD WALLPAPER</h5>
@@ -70,9 +70,9 @@ export default {
     let { proxy } = getCurrentInstance();
     let backPics = ref(examplePics);
     const images = [
-"http://stk32g12h.hn-bkt.clouddn.com/img/swiper1.4f9f0e27.jpg",
-"http://stk32g12h.hn-bkt.clouddn.com/img/swiper2.34fad73b.jpg",
-"http://stk32g12h.hn-bkt.clouddn.com/img/swiper3.7e5a0168.jpg"
+"http://angel-yan.top/img/swiper1.4f9f0e27.jpg",
+"http://angel-yan.top/img/swiper2.34fad73b.jpg",
+"http://angel-yan.top/img/swiper3.7e5a0168.jpg"
     
       // require("../../img/swiper1.4f9f0e27.jpg"),
       // require("../../img/swiper2.34fad73b.jpg"),
