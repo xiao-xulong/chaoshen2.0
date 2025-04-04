@@ -6,7 +6,7 @@
       <p class="thank">1元不嫌少，100不嫌多！感谢支持！</p>
       <p class="thank">所有费用皆用于网站运营</p>
     </article>
-    <section>
+    <!-- <section>
       <div class="pay">
 
         <img class="payImg" src="../../img/wx.jpg">
@@ -14,7 +14,7 @@
         <span class="payImgText">微信打赏</span>
         <span class="payImgText">支付宝赞助</span>
       </div>
-    </section>
+    </section> -->
     <div class="vip">
       <div class="vipTitle">
         赞助名单列表
